@@ -1,0 +1,1303 @@
+{
+ "source_en": "Orthodox Christian Prayers (St. Tikhon’s Monastery Press, 2019), as published by the Orthodox Church in America: https://www.oca.org/files/PDF/Music/Daily/morning-evening-prayers.pdf",
+ "credit_en": "English text: Orthodox Christian Prayers, as published by the Orthodox Church in America (oca.org)",
+ "credit_mk": "Македонски текст: заедничките молитви според објавените текстови на МПЦ (m-p-c.org, mpc.org.mk) и pmz.mk; останатите молитви се превод од англискиот текст.",
+ "format": "text_* paragraphs are separated by a blank line; ~...~ marks a rubric inside the text; (…) in text is a rubric such as (thrice).",
+ "sections": [
+  {
+   "id": "morning",
+   "title_en": "Morning Prayers",
+   "title_mk": "Утрински молитви",
+   "sub_en": "",
+   "sub_mk": "",
+   "prayers": [
+    {
+     "id": "m01",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "Upon rising from sleep:",
+     "rubric_mk": "Кога ќе станеш од сон:",
+     "text_en": "In the Name of the Father and of the Son and of the Holy Spirit. Amen.",
+     "text_mk": "Во името на Отецот и Синот и Светиот Дух. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "verified",
+      "urls": [
+       "https://pmz.mk/molitvenik/utrinski-molitvi/molitvi-po-stanuvanje-od-postela/"
+      ]
+     }
+    },
+    {
+     "id": "m02",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "After standing a little while in silence, waiting till all the senses are calm, one may make three prostrations, saying:",
+     "rubric_mk": "Откако ќе постоиш малку во тишина, додека не се смират сите сетила, може да направиш три поклони, велејќи:",
+     "text_en": "Lord Jesus Christ, Son of God, have mercy on me, a sinner!",
+     "text_mk": "Господи Исусе Христе, Сине Божји, помилуј ме грешниот!",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m03",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "And then the following:",
+     "rubric_mk": "А потоа следново:",
+     "text_en": "Through the prayers of our holy fathers, O Lord Jesus Christ our God, have mercy on us. Amen.\n\nGlory to thee, our God, glory to thee.",
+     "text_mk": "Со молитвите на светите наши отци, Господи Исусе Христе, Боже наш, помилуј нè. Амин.\n\nСлава Ти, Боже наш, слава Ти.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "mixed",
+      "note": "„Слава Ти, Боже наш, слава Ти“ – pmz.mk; „Со молитвите на светите наши отци…“ – превод (не е најден потврден текст на МПЦ)",
+      "urls": [
+       "https://pmz.mk/molitvenik/vecerni-molitvi/vecerna-molitva/"
+      ]
+     }
+    },
+    {
+     "id": "m04",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O heavenly King, the Comforter, the Spirit of truth, who art everywhere present and fillest all things, Treasury of blessings, and Giver of life: come and abide in us, and cleanse us from every impurity, and save our souls, O Good One.",
+     "text_mk": "Цару небесен, Утешителу, Духу на вистината, Кој си насекаде и сè исполнуваш, ризницо на добрините, животодавче, дојди и всели се во нас, и очисти нè од секаква нечистотија и спаси ги, Благи, нашите души.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "verified",
+      "urls": [
+       "https://www.m-p-c.org/?page_id=1794"
+      ]
+     }
+    },
+    {
+     "id": "m05",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Holy God, Holy Mighty, Holy Immortal: have mercy on us. (thrice)\n\nGlory to the Father and to the Son and to the Holy Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Свети Боже, Свети Силни, Свети Бесмртни, помилувај нè. (трипати)\n\nСлава на Оца и Сина и Светиот Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "verified",
+      "urls": [
+       "https://www.m-p-c.org/?page_id=1794"
+      ]
+     }
+    },
+    {
+     "id": "m06",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Most Holy Trinity, have mercy on us. Lord, cleanse us from our sins. Master, pardon our transgressions. Holy One, visit and heal our infirmities, for thy Name’s sake.\n\nLord, have mercy. (thrice)\n\nGlory to the Father and to the Son and to the Holy Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Пресвета Троице помилувај нè, Господи, очисти ни ги гревовите, Владико прости ни ги безаконијата, Свети посети нè и излекувај ни ги нашите слабости, заради Твоето име.\n\nГосподи, помилуј. (трипати)\n\nСлава на Оца и Сина и Светиот Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "verified",
+      "urls": [
+       "https://www.m-p-c.org/?page_id=1794"
+      ]
+     }
+    },
+    {
+     "id": "m07",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Our Father, who art in heaven, hallowed be thy Name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from the evil one.",
+     "text_mk": "Оче наш, Кој си на небесата, да се свети името Твое, да дојде царството Твое, да биде волјата Твоја, како на небото, така и на земјата; лебот наш насушен дај ни го денес и прости ни ги долговите наши, како што им ги проштеваме и ние на нашите должници; и не воведувај нè во искушение, но избави нè од лукавиот.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "verified",
+      "urls": [
+       "https://www.m-p-c.org/?page_id=1804"
+      ]
+     }
+    },
+    {
+     "id": "m08",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "And these troparia:",
+     "rubric_mk": "И овие тропари:",
+     "text_en": "Rising from sleep we fall down before thee, O Good One, and with the angels’ song we cry to thee, All-powerful: Holy, Holy, Holy art thou, O God: through the Theotokos, have mercy on us.\n\nGlory to the Father…\n\nO Lord, who hast raised me from bed and from sleep, enlighten my mind and heart, and open my lips that I may sing of thee, O Holy Trinity: Holy, Holy, Holy art thou, O God: through the Theotokos, have mercy on us.\n\nNow and ever…\n\nThe Judge shall come suddenly, and the deeds of each shall be exposed. But at midnight we cry out with fear: Holy, Holy, Holy art thou, O God: through the Theotokos, have mercy on us.\n\nLord, have mercy. (twelve times)",
+     "text_mk": "Станувајќи од сон, паѓаме пред Тебе, Благи, и ангелската песна Ти ја воскликнуваме, Седржителу: Свет, Свет, Свет си, Боже; со молитвите на Богородица помилуј нè.\n\nСлава на Оца…\n\nГосподи, Ти што ме подигна од постелата и од сонот, просветли ми го умот и срцето и отвори ми ги усните, за да Те воспеам Тебе, Света Троице: Свет, Свет, Свет си, Боже; со молитвите на Богородица помилуј нè.\n\nИ сега и секогаш…\n\nСудијата ќе дојде ненадејно и делата на секого ќе бидат разоткриени; но ние среде полноќ со страв воскликнуваме: Свет, Свет, Свет си, Боже; со молитвите на Богородица помилуј нè.\n\nГосподи, помилуј. (дванаесет пати)",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "mixed",
+      "note": "Тропарите – превод; „Слава на Оца…“, „Господи, помилуј“ – m-p-c.org",
+      "urls": [
+       "https://www.m-p-c.org/?page_id=1794"
+      ]
+     }
+    },
+    {
+     "id": "m09",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Rising from sleep, I thank thee, O Holy Trinity. For, in the abundance of thy goodness and patience, thou hast not been angry with me, idler and sinner though I be, nor hast thou destroyed me together with my iniquities; but thou hast shown thy usual love for mankind, and hast raised me up as I lay helpless, that I might rise early and glorify thy dominion. Enlighten now the eyes of my mind and open my lips that I may study thy words, and come to understand thy commandments, and accomplish thy will, and hymn thee in heartfelt confession, and praise thine all-holy Name, of the Father and of the Son and of the Holy Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Станувајќи од сон, Ти благодарам, Света Троице, зашто, поради изобилството на Твојата добрина и долготрпение, не се разгнева на мене, мрзливиот и грешниот, ниту ме погуби заедно со моите беззаконија, туку ја покажа Својата вообичаена човекољубивост и ме подигна мене, што лежев беспомошен, за да станам рано и да ја прославам Твојата власт. Просветли ги сега очите на мојот ум и отвори ми ги усните, за да се поучувам во Твоите зборови, да ги разберам Твоите заповеди, да ја исполнувам Твојата волја, да Те воспевам со срдечна исповед и да го славам Твоето пресвето име, на Оца и Сина и Светиот Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m10",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Come, let us worship God our King.\n\nCome, let us worship and fall down before Christ, our King and our God.\n\nCome, let us worship and fall down before Christ himself, our King and our God.",
+     "text_mk": "Дојдете да Му се поклониме на нашиот Цар Бог.\n\nДојдете да се поклониме и да паднеме пред Христа, нашиот Цар и нашиот Бог.\n\nДојдете да се поклониме и да паднеме пред Самиот Христос, нашиот Цар и нашиот Бог.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m11",
+     "title_en": "Psalm 50",
+     "title_mk": "Псалм 50",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Have mercy on me, O God, according to thy great mercy, and according to the multitude of thy compassions blot out my transgression. Wash me thoroughly from my iniquity, and cleanse me from my sin.\n\nFor I know my iniquity, and my sin is continually before me. Against thee only have I sinned, and done what is evil before thee, that thou mightest be justified in thy words, and prevail when thou art judged. For, behold, I was conceived in iniquities, and in sins did my mother bear me. For, behold, thou hast loved truth, the unknown and hidden things of thy wisdom hast thou made known unto me.\n\nThou shalt sprinkle me with hyssop, and I shall be cleansed; thou shalt wash me, and I shall be made whiter than snow. Thou shalt cause me to hear joy and gladness, the bones that have been humbled shall rejoice. Turn thy face away from my sins, and blot out all my iniquities. Create in me a clean heart, O God, and renew a right spirit within me. Cast me not away from thy presence, and take not thy Holy Spirit from me. Restore unto me the joy of thy salvation, and establish me with a ruling spirit. I will teach transgressors thy ways, and the ungodly shall return to thee. Deliver me from blood-guiltiness, O God, thou God of my salvation, and my tongue shall rejoice in thy righteousness.\n\nO Lord, thou shalt open my lips, and my mouth shall declare thy praise. For if thou hadst desired sacrifice, I would have given it; thou wilt not be pleased with whole-burnt offerings. A sacrifice to God is a broken spirit, a broken and humbled heart God will not despise.\n\nDo good, O Lord, in thy good pleasure unto Zion, and let the walls of Jerusalem be built. Then shalt thou be pleased with a sacrifice of righteousness, with oblation and whole-burnt offerings. Then shall they offer bullocks upon thine altar.",
+     "text_mk": "Помилуј ме, Боже, според Твојата голема милост, и според мноштвото на Твоите милосрдија избриши го моето беззаконие. Измиј ме сосема од моето беззаконие и очисти ме од мојот грев.\n\nЗашто јас го знам своето беззаконие, и мојот грев е секогаш пред мене. Само Тебе Ти згрешив и злото пред Тебе го сторив, за да бидеш оправдан во Своите зборови и да победиш кога ќе Ти судат. Зашто, ете, во беззаконија сум зачнат и во гревови ме роди мајка ми. Зашто, ете, Ти ја возљуби вистината; непознатото и скриеното од Својата премудрост ми го откри.\n\nЌе ме поросиш со исоп, и ќе бидам очистен; ќе ме измиеш, и ќе бидам побел од снег. Ќе ми дадеш да слушнам радост и веселба; ќе се зарадуваат смирените коски. Одврати го Своето лице од моите гревови и избриши ги сите мои беззаконија. Срце чисто создај во мене, Боже, и дух прав обнови во мене. Не отфрлај ме од Своето лице и Својот Свет Дух не одземај Го од мене. Врати ми ја радоста на Твоето спасение и утврди ме со владетелски дух. Ќе ги научам престапниците на Твоите патишта, и безбожните ќе се обратат кон Тебе. Избави ме од вината за крв, Боже, Боже на моето спасение, и мојот јазик ќе се зарадува на Твојата праведност.\n\nГосподи, Ти ќе ми ги отвориш усните, и мојата уста ќе ја објави Твојата пофалба. Зашто, да посакаше жртва, ќе Ти ја дадев; во сепаленици не ќе благоволиш. Жртва Богу е дух скрушен; срце скрушено и смирено Бог нема да го презре.\n\nСотвори добро, Господи, по Своето благоволение на Сион, и нека се соѕидаат ѕидините ерусалимски. Тогаш ќе Ти биде угодна жртвата на праведноста, приносот и сепалениците. Тогаш ќе принесуваат телци на Твојот жртвеник.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m12",
+     "title_en": "The Symbol of Faith",
+     "title_mk": "Символ на верата",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible.\n\nAnd in one Lord Jesus Christ, the Son of God, the Only-begotten, begotten of the Father before all ages; Light of Light, true God of true God; begotten, not made; of one essence with the Father; by whom all things were made; who for us men and for our salvation came down from heaven, and was incarnate of the Holy Spirit and the Virgin Mary, and became man; and he was crucified for us under Pontius Pilate, and suffered, and was buried; and the third day he rose again, according to the Scriptures, and ascended into heaven, and sits at the right hand of the Father; and he shall come again with glory to judge the living and the dead; whose kingdom shall have no end.\n\nAnd in the Holy Spirit, the Lord, the Giver of life, who proceeds from the Father; who with the Father and the Son together is worshipped and glorified; who spoke by the prophets. In One, Holy, Catholic, and Apostolic Church. I acknowledge one baptism for the remission of sins. I look for the resurrection of the dead, and the life of the world to come. Amen.",
+     "text_mk": "Верувам во Едниот Бог Отец, Седржител, творец на небото и на земјата, и на сè видливо и невидливо;\n\nИ во Единиот Господ Исус Христос, Син Божји, Единороден, Кој е роден од Отецот пред сите векови; Светлина од Светлина, вистински Бог од вистински Бог, роден, нестворен, едносуштен на Отецот, преку Кого сè станало;\n\nКој заради нас луѓето и заради нашето спасение, слезе од небесата и се воплоти од Светиот Дух и Марија Дева, и стана човек;\n\nИ Кој беше распнат заради нас во времето на Понтиј Пилат, и страдаше и беше погребан;\n\nИ Кој воскресна во третиот ден, според Писмото;\n\nИ Кој се вознесе на небесата, и седи оддесно на Отецот;\n\nИ Кој пак ќе дојде со слава, за да им суди на живите и на мртвите, и Неговото царство не ќе има крај;\n\nИ во Светиот Дух, Господ, Кој живот твори, Кој исходи од Отецот; Кој со Отецот и Синот е обожуван и славен, и Кој говорел преку пророците;\n\nВо едната, света, соборна и апостолска Црква;\n\nИсповедувам едно крштение, за прошка на гревовите;\n\nГо чекам воскресението на мртвите;\n\nИ животот во идниот век. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "verified",
+      "urls": [
+       "https://www.m-p-c.org/?page_id=2748"
+      ]
+     }
+    },
+    {
+     "id": "m13",
+     "title_en": "First Prayer",
+     "title_mk": "Прва молитва",
+     "sub_en": "by Saint Macarius the Great",
+     "sub_mk": "од свети Макариј Велики",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O God, cleanse me, a sinner, even though I have done nothing good before thee: yet deliver me from the evil one, and let thy will be done in me, that I may open my unworthy lips without condemnation and praise thy holy Name, of the Father and of the Son and of the Holy Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Боже, очисти ме мене грешниот, иако ништо добро не сторив пред Тебе; но избави ме од лукавиот, и нека биде во мене Твојата волја, за неосудено да ги отворам моите недостојни усни и да го восфалам Твоето свето име, на Оца и Сина и Светиот Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m14",
+     "title_en": "Second Prayer",
+     "title_mk": "Втора молитва",
+     "sub_en": "by the same",
+     "sub_mk": "од истиот",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Rising from sleep, I offer thee a midnight song, O Savior. I fall down and cry out to thee: let me not fall asleep in the death of sin, but be gracious to me, O thou who wast voluntarily crucified; and raise me quickly, for I lie in laziness, and save me as I stand at prayer; after the night’s sleep, O Christ my God, shine upon me a sinless day and save me.",
+     "text_mk": "Станувајќи од сон, Ти принесувам полноќна песна, Спасителу, и паѓајќи пред Тебе Ти воскликнувам: не дај ми да заспијам во смртта на гревот, туку смилувај се на мене, Ти што доброволно беше распнат; и подигни ме брзо, зашто лежам во мрзливост, и спаси ме додека стојам на молитва; и по ноќниот сон, Христе Боже мој, озари ме со безгрешен ден и спаси ме.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m15",
+     "title_en": "Third Prayer",
+     "title_mk": "Трета молитва",
+     "sub_en": "by the same",
+     "sub_mk": "од истиот",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Rising from sleep, I run to thee, O Master who lovest mankind; thy loving-kindness rouses me to do thy work. I pray thee: help me at all times and in all things, and deliver me from every evil of this world and from the meddling of the devil; save me and lead me into thine eternal kingdom. For thou art my Creator, the providential Giver of every good. All my hope is in thee, and to thee I give the glory, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Станувајќи од сон, кон Тебе прибегнувам, Владико Човекољубче; Твоето милосрдие ме поттикнува да ги вршам Твоите дела. Ти се молам: помогни ми во секое време и во сè, и избави ме од секое зло на овој свет и од мешањето на ѓаволот; спаси ме и воведи ме во Твоето вечно царство. Зашто Ти си мојот Создател, промислителниот Дарител на секое добро. Сета моја надеж е во Тебе, и Тебе Ти ја воздавам славата, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m16",
+     "title_en": "Fourth Prayer",
+     "title_mk": "Четврта молитва",
+     "sub_en": "by the same",
+     "sub_mk": "од истиот",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Lord, in thine abundant goodness and great compassion thou hast granted me, thy servant, to pass the night unassailed by any evil of the enemy. O Master and Creator of all, by thy true light make me worthy to accomplish thy will with an illumined heart, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Господи, со Твојата изобилна добрина и големо милосрдие ми дарува мене, Твојот слуга, да ја поминам ноќта ненападнат од никакво зло на непријателот. Владико и Создателу на сè, удостој ме со Твојата вистинска светлина, со просветлено срце да ја исполнувам Твојата волја, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m17",
+     "title_en": "Fifth Prayer",
+     "title_mk": "Петта молитва",
+     "sub_en": "by the same",
+     "sub_mk": "од истиот",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Lord, God Almighty, who dost accept the thrice-holy hymn from thy heavenly hosts: accept from me, thine unworthy servant, this song at the rising of the sun. Grant that at every season and hour of my life I may glorify thee, the Father and the Son and the Holy Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Господи, Боже Седржителу, Кој ја примаш трисветата песна од Твоите небесни сили, прими ја и од мене, Твојот недостоен слуга, оваа песна при изгревот на сонцето. Дај ми во секое време и час од мојот живот да Те славам Тебе, Отецот и Синот и Светиот Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m18",
+     "title_en": "Sixth Prayer",
+     "title_mk": "Шеста молитва",
+     "sub_en": "by Saint Basil the Great",
+     "sub_mk": "од свети Василиј Велики",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Lord Almighty, God of powers and of all flesh, who livest on high yet takest care for things below, who triest hearts and reins and clearly foreknowest the secrets of men: thou art the Light without beginning, who ever art, in whom there is neither variation nor shadow of change. O King immortal, accept the prayers which we, trusting in the multitude of thy compassions, now offer thee from defiled lips. Forgive all the iniquities we have committed in deed or word or thought, in knowledge or in ignorance. Cleanse us from all defilement of flesh and spirit. Grant us to pass through the entire night of this present life with wakeful heart and sober mind, awaiting the coming of the radiant day of the appearing of thine Only-begotten Son, our Lord and God and Savior Jesus Christ, when the Judge of all shall come with glory to reward each according to his deeds. May we not be found fallen and idle, but alert and roused to action, prepared to enter into his joy and the divine bridal chamber of his glory, where the voice of those who feast is unceasing, and the sweetness of those who behold the ineffable beauty of thy countenance is beyond telling. For thou art the true Light that enlightens and sanctifies all things, and all creation doth extol thee in song, unto ages of ages. Amen.",
+     "text_mk": "Господи Седржителу, Боже на силите и на секое тело, Кој живееш во висините, а се грижиш за долните, Кој ги испитуваш срцата и утробите и јасно ги знаеш однапред човечките тајни: Ти си беспочетната Светлина, Која секогаш постои, во Која нема ни промена ни сенка од менување. Бесмртен Царе, прими ги молитвите што ние, надевајќи се на мноштвото на Твоите милосрдија, сега Ти ги принесуваме од осквернети усни. Прости ни ги сите беззаконија што ги сторивме со дело, со збор или со мисла, свесно или несвесно. Очисти нè од секаква нечистотија на телото и духот. Дај ни да ја поминеме целата ноќ на овој сегашен живот со будно срце и трезвен ум, очекувајќи го доаѓањето на светлиот ден на јавувањето на Твојот Единороден Син, Господ и Бог и Спасител наш Исус Христос, кога Судијата на сите ќе дојде со слава да му воздаде секому според неговите дела. Да не бидеме најдени паднати и мрзливи, туку будни и подготвени за дело, готови да влеземе во Неговата радост и во божествената брачна одаја на Неговата слава, каде што гласот на оние што празнуваат е непрестаен и каде што сладоста на оние што ја гледаат неискажливата убавина на Твоето лице е неопислива. Зашто Ти си вистинската Светлина, Која сè просветлува и осветува, и Тебе Те воспева целата твар во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m19",
+     "title_en": "Seventh Prayer",
+     "title_mk": "Седма молитва",
+     "sub_en": "by the same",
+     "sub_mk": "од истиот",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "We bless thee, O God Most High and Lord of mercies, who ever doest among us great and unsearchable things, glorious and extraordinary, which cannot be numbered, who grantest to us sleep for rest from our infirmities and repose from the burdens of our much-toiling flesh. We thank thee that thou hast not destroyed us with our sins but hast loved us as always, and though we are sunk in despair, thou hast raised us up to glorify thy might. Therefore, we implore thine incomparable goodness to enlighten the eyes of our understanding and to raise up our minds from the heavy sleep of indolence: open our mouth and fill it with thy praise, that we may be able undistracted to sing and chant and confess unto thee, who art God, glorified in all and by all, the Father without beginning, together with thine Only-begotten Son, and thine all-holy, good, and life-giving Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Те благословуваме, Боже Севишен и Господи на милосрдието, Кој секогаш правиш со нас големи и неиспитливи дела, славни и чудесни, на кои нема број; Кој ни даваш сон за одмор од нашите немоќи и за починка од маките на нашето многутрудно тело. Ти благодариме што не нè погуби заедно со нашите гревови, туку нè возљуби како секогаш, и иако бевме потонати во очај, нè подигна да ја прославиме Твојата сила. Затоа ја молиме Твојата неспоредлива добрина: просветли ги очите на нашиот разум и подигни ги нашите умови од тешкиот сон на мрзливоста; отвори ја нашата уста и исполни ја со Твојата пофалба, за да можеме нерасеано да Ти пееме, да Те воспеваме и да Те исповедаме Тебе, Бога, прославен во сè и од сите, беспочетниот Отец, заедно со Твојот Единороден Син и Твојот пресвет, благ и животворен Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m20",
+     "title_en": "Eighth Prayer",
+     "title_mk": "Осма молитва",
+     "sub_en": "A Midnight Song to the Theotokos",
+     "sub_mk": "Полноќна песна кон Богородица",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "I sing thy grace, O Lady, and beseech thee: grant grace to my mind. Teach me to walk aright on the path of Christ’s commandments. Strengthen me to keep watch with song, dispelling the torpor of sleep. I am bound by fetters of sin: free me by thy prayers, O Bride of God. Guard me by night and by day, delivering me from foes that war against me. Thou didst bear God, the Giver of life: give life to me, who am slain by passions. Thou didst bear the Light that knows no evening: enlighten my blinded soul. O wondrous palace of the Master, make of me a home for the divine Spirit. Thou didst bear the Physician: heal my soul of its besetting passions. I am tossed in the tempest of life: direct me toward the path of repentance. Deliver me from the eternal fire, from the wicked worm, and from hell. Make me not a joy of demons, though I am guilty of many sins. Make me new, O most immaculate Lady: I have grown old and unfeeling in my sins. Keep me away from every torment, and pray fervently to the Master of all. Grant that I may inherit the joys of heaven, together with all the saints. Most pure and holy Virgin, give ear to the voice of thine unfruitful servant. Grant me a torrent of tears to wash out the filth from my soul. The groans of my heart I offer thee unceasingly: open thy heart, O Lady. Accept my prayerful service, and offer it up to the God of compassion. Thou who art far higher than the angels, raise me far above the world’s confusion. O bright and heavenly shade, overshadow and enlighten me with spiritual grace. Though my hands and lips are defiled by sin, nevertheless I raise them in praise of thee, all-immaculate Queen. Deliver me from soul-corrupting dangers, and pray fervently to Christ, to whom are due honor and worship, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Ја воспевам Твојата благодат, Владичице, и Те молам: даруј му благодат на мојот ум. Научи ме да одам право по патот на Христовите заповеди. Зајакни ме да бдеам во песна, отфрлајќи ја дремливоста на сонот. Врзан сум со оковите на гревот: ослободи ме со Твоите молитви, Невесто Божја. Чувај ме ноќе и дење, избавувајќи ме од непријателите што војуваат против мене. Ти Го роди Бога, Дарителот на животот: оживи ме мене, убиениот од страстите. Ти ја роди невечерната Светлина: просветли ја мојата заслепена душа. Чудесна палато на Владиката, направи ме дом на Божествениот Дух. Ти Го роди Лекарот: исцели ја мојата душа од страстите што ја опседнуваат. Фрлан сум во бурата на животот: насочи ме кон патот на покајанието. Избави ме од вечниот оган, од лошиот црв и од пеколот. Не прави ме радост на демоните, иако сум виновен за многу гревови. Обнови ме, пренепорочна Владичице: остарев и станав бесчувствителен во гревовите. Чувај ме од секоја мака и моли Му се усрдно на Владиката на сè. Дај ми да ги наследам небесните радости заедно со сите светии. Пречиста и света Дево, слушни го гласот на Твојот неплоден слуга. Дај ми порој од солзи да ја измијам нечистотијата од мојата душа. Воздишките на моето срце непрестајно Ти ги принесувам: отвори го Своето срце, Владичице. Прими ја мојата молитвена служба и принеси ја пред милосрдниот Бог. Ти што си многу повисока од ангелите, подигни ме високо над метежот на светот. Светла и небесна сенко, осени ме и просветли ме со духовна благодат. Иако рацете и усните ми се осквернети од гревот, сепак ги кревам во Твоја пофалба, сенепорочна Царице. Избави ме од опасностите што ја расипуваат душата и моли Му се усрдно на Христа, Кому Му приличат чест и поклонение, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m21",
+     "title_en": "Ninth Prayer",
+     "title_mk": "Деветта молитва",
+     "sub_en": "To Our Lord Jesus Christ",
+     "sub_mk": "Кон Господ наш Исус Христос",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "My most merciful and all-merciful God, O Lord Jesus Christ: in thy great love, thou didst come down and take flesh in order to save all. And so I pray thee, O Savior: save me by grace. If thou shouldst save me because of my deeds, this would not be a gift, but merely a duty. Truly, thou aboundest in compassion and art inexpressibly merciful; for thou hast said, O my Christ: ‘He who believes in me shall live and never see death.’ If faith in thee saves the desperate, behold: I believe. Save me, for thou art my God and my Creator. May faith be accounted to me in place of deeds, for thou shalt find no deeds to justify me. May my faith suffice for everything: may it answer for me; may it justify me; may it make me a partaker of thine eternal glory. Do not let Satan seize me and boast that he has torn me from thy hand and fold; but rather, Christ my Savior, save me whether I want it or not. Come quickly, hurry, for I am perishing: for thou art my God from my mother’s womb. O Lord, grant that now I may love thee as I once loved sin, and that I may labor for thee without laziness just as I once labored for Satan the deceiver. All the more shall I labor for thee, my Lord and God, Jesus Christ, all the days of my life, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Премилостив и семилостив Боже мој, Господи Исусе Христе: поради Својата голема љубов Ти слезе и се воплоти за да ги спасиш сите. И затоа Те молам, Спасителу: спаси ме по благодат. Ако ме спасиш поради моите дела, тоа не би бил дар, туку само должност. Навистина, Ти си изобилен во милосрдие и неискажливо милостив; зашто Ти рече, Христе мој: „Кој верува во Мене, ќе живее и нема да види смрт никогаш.“ Ако верата во Тебе ги спасува очајните, ете: верувам. Спаси ме, зашто Ти си мојот Бог и мојот Создател. Нека ми се засмета верата наместо делата, зашто нема да најдеш дела што ќе ме оправдаат. Нека мојата вера биде доволна за сè: нека одговори за мене, нека ме оправда, нека ме направи причесник на Твојата вечна слава. Не дозволувај сатаната да ме грабне и да се фали дека ме откинал од Твојата рака и од Твоето стадо; туку, Христе, Спасителу мој, спаси ме, сакал или не сакал. Дојди брзо, побрзај, зашто загинувам; зашто Ти си мојот Бог уште од утробата на мајка ми. Господи, дај ми сега да Те возљубам онака како што некогаш го љубев гревот, и да се трудам за Тебе без мрзливост, онака како што некогаш се трудев за сатаната измамникот. Уште повеќе ќе се трудам за Тебе, мојот Господ и Бог, Исус Христос, во сите денови на мојот живот, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m22",
+     "title_en": "Tenth Prayer",
+     "title_mk": "Десетта молитва",
+     "sub_en": "To the Guardian Angel",
+     "sub_mk": "Кон ангелот чувар",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O holy angel, standing guard over my wretched soul and my passionate life: do not abandon me, a sinner, neither depart from me because of my lack of self-control. Leave no room for the evil demon to gain control over me by subduing this mortal body. Strengthen my weak and feeble hand, and guide me toward the path of salvation. O holy angel of God, the guardian and protector of my wretched soul and body: forgive me all the sorrows I have caused thee every day of my life; and if I have sinned during the night now past, yet protect me throughout the present day. Keep me from every temptation of the enemy, lest I anger God by some sin. Pray to the Lord on my behalf, that he may establish me in his fear and make me, his servant, worthy of his goodness. Amen.",
+     "text_mk": "Свети ангеле, што стоиш на стража над мојата бедна душа и над мојот страстен живот: не оставај ме мене грешниот, ниту оддалечувај се од мене поради мојата невоздржаност. Не оставај место лукавиот демон да завладее со мене преку потчинувањето на ова смртно тело. Зацврсти ја мојата слаба и немоќна рака и упати ме на патот на спасението. Свети ангеле Божји, чувару и заштитнику на мојата бедна душа и тело: прости ми ги сите жалости што сум ти ги нанел во сите денови на мојот живот; и ако сум згрешил во изминатата ноќ, заштити ме во денешниот ден. Чувај ме од секое искушение на непријателот, за да не Го разгневам Бога со некој грев. Моли Му се на Господа за мене, за да ме утврди во Својот страв и да ме направи мене, Својот слуга, достоен за Својата добрина. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m23",
+     "title_en": "Eleventh Prayer",
+     "title_mk": "Единаесетта молитва",
+     "sub_en": "To the Most Holy Theotokos",
+     "sub_mk": "Кон Пресвета Богородица",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O my Lady, most holy Theotokos, through thy holy and all-powerful prayers, drive from me, thy humble and wretched servant, despair, forgetfulness, indiscretion, indifference, and all filthy, evil, and blasphemous thoughts, removing them from my wretched heart and darkened mind. Extinguish the flame of my passions, for I am poor and wretched. Deliver me from my many wicked memories and plans, and free me from all evil activity. For thou art blessed by all generations, and thy most precious name is glorified unto ages of ages. Amen.",
+     "text_mk": "Владичице моја, Пресвета Богородице, со Твоите свети и сесилни молитви оддалечи ги од мене, Твојот смирен и беден слуга, очајот, заборавот, нерасудливоста, рамнодушноста и сите нечисти, лукави и хулни помисли, отстранувајќи ги од моето бедно срце и од мојот помрачен ум. Изгаси го пламенот на моите страсти, зашто сум сиромав и беден. Избави ме од многуте лоши спомени и намери и ослободи ме од секое лошо дејство. Зашто Ти си благословена од сите родови, и Твоето пречесно име се прославува во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m24",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "And these verses:",
+     "rubric_mk": "И овие стихови:",
+     "text_en": "Rejoice, O Virgin Theotokos, Mary, full of grace, the Lord is with thee. Blessed art thou among women, and blessed is the fruit of thy womb: for thou hast borne the Savior of our souls.\n\nPray to God for me, O holy [name of your patron saint], pleasing to God, for with fervor I run to thee, swift helper and intercessor for my soul.\n\nO Lord, save thy people and bless thine inheritance. Grant victories to the Orthodox Christians over their adversaries, and by virtue of thy Cross preserve thy habitation.",
+     "text_mk": "Богородице Дево, радувај се благодатна Маријо, Господ е со Тебе, благословена си Ти меѓу жените и благословен е плодот на Твојата утроба, зашто Го роди Спасителот на нашите души.\n\nМоли Го Бога за мене, свети [име на твојот светител-заштитник], угодниче Божји, зашто јас усрдно прибегнувам кон тебе, брз помошнику и застапнику за мојата душа.\n\nСпаси го, Господи, Својот народ и благослови го Своето наследство. Дарувај им победи на православните христијани над нивните противници, и со силата на Својот Крст зачувај го Своето живеалиште.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "mixed",
+      "note": "„Богородице Дево“ – mpc.org.mk; другите два стиха – превод",
+      "urls": [
+       "http://mpc.org.mk/svetootecko-predanie.asp?id=5885"
+      ]
+     }
+    },
+    {
+     "id": "m25",
+     "title_en": "Prayer of Saint Ephraim",
+     "title_mk": "Молитва на свети Ефрем",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "During fasting seasons, on Monday through Friday, we say the following prayer:",
+     "rubric_mk": "Во време на пости, од понеделник до петок, ја велиме следнава молитва:",
+     "text_en": "O Lord and Master of my life, give me not a spirit of sloth, despair, lust of power, and idle talk. (prostration) But give rather a spirit of chastity, humility, patience, and love to thy servant. (prostration) Yea, O Lord and King, grant me to see my own transgressions, and not to judge my brother: for blessed art thou unto ages of ages. Amen. (prostration)\n\nO God, cleanse me a sinner. (12 times, with bows)",
+     "text_mk": "Господи и Владико на мојот живот, не давај ми дух на мрзливост, очај, властољубие и празнословие. (поклон) Даруј му го, пак, на Твојот слуга духот на целомудреноста, смиреноумноста, трпението и љубовта. (поклон) Да, Господи Царе, дај ми да ги гледам моите согрешенија и да не го осудувам мојот брат, зашто благословен си во вечни векови. Амин. (поклон)\n\nБоже, очисти ме грешниот. (12 пати, со мали поклони)",
+     "after_en": "Then the entire Prayer of St. Ephraim is repeated with a single prostration at its conclusion.",
+     "after_mk": "Потоа целата молитва на свети Ефрем се повторува, со еден поклон на крајот.",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "m26",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "It is truly meet to bless thee, O Theotokos, ever-blessed and most pure and the Mother of our God. More honorable than the cherubim and more glorious beyond compare than the seraphim, without corruption thou gavest birth to God the Word: true Theotokos, we magnify thee. (prostration)\n\nGlory to the Father and to the Son and to the Holy Spirit, now and ever and unto ages of ages. Amen.\n\nLord, have mercy. (thrice)",
+     "text_mk": "Достојно е, навистина, Тебе да Те прославуваме Богородице, секогаш блажена и пренепорочна и Мајка на нашиот Бог. Почесна од херувимите и неспоредливо пославна од серафимите, Бога Словото девствено што Го роди, Тебе, вистинската Богородица ние Те величаме. (поклон)\n\nСлава на Оца и Сина и Светиот Дух, сега и секогаш и во вечни векови. Амин.\n\nГосподи, помилуј. (трипати)",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "mixed",
+      "note": "„Достојно е“ – mpc.org.mk; „Слава на Оца…“, „Господи, помилуј“ – m-p-c.org",
+      "urls": [
+       "http://www.mpc.org.mk/Kalendar/prolog.asp?id=0x3918356A30AAAC758F584A01729DE7E4E6ED107A",
+       "https://www.m-p-c.org/?page_id=1794"
+      ]
+     }
+    },
+    {
+     "id": "m27",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Lord Jesus Christ, Son of God, through the prayers of thy most pure Mother, of my holy guardian angel, of [name of your patron saint], of [saint(s) of the day], and of all the saints: save me, a sinner. Amen.",
+     "text_mk": "Господи Исусе Христе, Сине Божји, со молитвите на Твојата пречиста Мајка, на мојот свет ангел чувар, на [име на твојот светител-заштитник], на [светителот/светителите на денот] и на сите светии: спаси ме мене грешниот. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "table",
+   "title_en": "Prayers at Table",
+   "title_mk": "Молитви при трпеза",
+   "sub_en": "",
+   "sub_mk": "",
+   "prayers": [
+    {
+     "id": "t01",
+     "title_en": "At the Morning Meal",
+     "title_mk": "При утринскиот оброк",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "The eyes of all creatures look to thee, O Lord, and thou givest them food and drink in due season; thou openest thy merciful hand and fillest every living thing with thy goodwill.\n\nGlory… Now and ever… Lord, have mercy. (thrice)\n\n~For a priest:~ O Christ our God, bless the food and drink of thy servants, for thou art holy, always, now and ever and unto ages of ages. ~R.~ Amen.\n\n~For a layman:~ Lord Jesus Christ our God, through the prayers of our holy fathers, bless the food and drink of thy servants, for thou art holy, always, now and ever and unto ages of ages. ~R.~ Amen.",
+     "text_mk": "Очите на сите созданија гледаат кон Тебе, Господи, и Ти им даваш храна и пијалак навреме; Ти ја отвораш Својата милостива рака и го исполнуваш со Своето благоволение секое живо суштество.\n\nСлава… И сега… Господи, помилуј. (трипати)\n\n~За свештеник:~ Христе Боже, благослови ги јадењето и пиењето на Твоите слуги, зашто си свет, секогаш, сега и секогаш и во вечни векови. ~Одг.~ Амин.\n\n~За мирјанин:~ Господи Исусе Христе, Боже наш, со молитвите на светите наши отци, благослови ги јадењето и пиењето на Твоите слуги, зашто си свет, секогаш, сега и секогаш и во вечни векови. ~Одг.~ Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "t02",
+     "title_en": "After the Morning Meal",
+     "title_mk": "По утринскиот оброк",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Glory to thee, O Lord; glory to thee, O Holy One; glory to thee, O King: for thou hast given us sustenance for gladness. Fill us also with the Holy Spirit, that we may come before thee well-pleasing and unashamed when thou renderest to each according to his deeds.\n\nGlory… Now and ever… Lord, have mercy. (thrice)\n\n~For a priest:~ Blessed is God, who has mercy and feeds us from his bountiful gifts through his grace and love for mankind, always, now and ever and unto ages of ages. ~R.~ Amen.\n\n~For a layman:~ Through the prayers of our holy fathers, O Lord Jesus Christ our God, have mercy on us. ~R.~ Amen.",
+     "text_mk": "Слава Ти, Господи; слава Ти, Свети; слава Ти, Царе: зашто ни даде храна за радост. Исполни нè и со Светиот Дух, за да се најдеме пред Тебе угодни и непосрамени, кога ќе му воздадеш секому според неговите дела.\n\nСлава… И сега… Господи, помилуј. (трипати)\n\n~За свештеник:~ Благословен е Бог, Кој нè милува и нè храни од Своите богати дарови, по Својата благодат и човекољубие, секогаш, сега и секогаш и во вечни векови. ~Одг.~ Амин.\n\n~За мирјанин:~ Со молитвите на светите наши отци, Господи Исусе Христе, Боже наш, помилуј нè. ~Одг.~ Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "t03",
+     "title_en": "At the Midday Meal",
+     "title_mk": "При пладневниот оброк",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Our Father, who art in heaven, hallowed be thy Name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from the evil one.\n\nGlory… Now and ever… Lord, have mercy. (thrice)\n\n~For a priest:~ O Christ our God, bless the food and drink of thy servants, for thou art holy, always, now and ever and unto ages of ages. ~R.~ Amen.\n\n~For a layman:~ Lord Jesus Christ our God, through the prayers of our holy fathers, bless the food and drink of thy servants, for thou art holy, always, now and ever and unto ages of ages. ~R.~ Amen.",
+     "text_mk": "Оче наш, Кој си на небесата, да се свети името Твое, да дојде царството Твое, да биде волјата Твоја, како на небото, така и на земјата; лебот наш насушен дај ни го денес и прости ни ги долговите наши, како што им ги проштеваме и ние на нашите должници; и не воведувај нè во искушение, но избави нè од лукавиот.\n\nСлава… И сега… Господи, помилуј. (трипати)\n\n~За свештеник:~ Христе Боже, благослови ги јадењето и пиењето на Твоите слуги, зашто си свет, секогаш, сега и секогаш и во вечни векови. ~Одг.~ Амин.\n\n~За мирјанин:~ Господи Исусе Христе, Боже наш, со молитвите на светите наши отци, благослови ги јадењето и пиењето на Твоите слуги, зашто си свет, секогаш, сега и секогаш и во вечни векови. ~Одг.~ Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "mixed",
+      "note": "„Оче наш“ – m-p-c.org; благословот – превод",
+      "urls": [
+       "https://www.m-p-c.org/?page_id=1804"
+      ]
+     }
+    },
+    {
+     "id": "t04",
+     "title_en": "After the Midday Meal",
+     "title_mk": "По пладневниот оброк",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "We thank thee, O Christ our God, for thou hast satisfied us with thine earthly gifts. Deprive us not of thy heavenly kingdom, but as thou camest among thy disciples, O Savior, giving them peace, so come to us and save us.\n\nGlory… Now and ever… Lord, have mercy. (thrice)\n\n~For a priest:~ Blessed is God, who has mercy and feeds us from his bountiful gifts through his grace and love for mankind, always, now and ever and unto ages of ages. ~R.~ Amen.\n\n~For a layman:~ Through the prayers of our holy fathers, O Lord Jesus Christ our God, have mercy on us. ~R.~ Amen.",
+     "text_mk": "Ти благодариме, Христе Боже наш, зашто нè насити со Своите земни дарови. Не лишувај нè од Своето небесно царство, туку, како што дојде меѓу Своите ученици, Спасителу, давајќи им мир, дојди и кај нас и спаси нè.\n\nСлава… И сега… Господи, помилуј. (трипати)\n\n~За свештеник:~ Благословен е Бог, Кој нè милува и нè храни од Своите богати дарови, по Својата благодат и човекољубие, секогаш, сега и секогаш и во вечни векови. ~Одг.~ Амин.\n\n~За мирјанин:~ Со молитвите на светите наши отци, Господи Исусе Христе, Боже наш, помилуј нè. ~Одг.~ Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "t05",
+     "title_en": "At Supper",
+     "title_mk": "При вечерата",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "The poor shall eat and be satisfied, and they that seek the Lord shall praise him; their hearts shall live forever.\n\nGlory… Now and ever… Lord, have mercy. (thrice)\n\n~For a priest:~ O Christ our God, bless the food and drink of thy servants, for thou art holy, always, now and ever and unto ages of ages. ~R.~ Amen.\n\n~For a layman:~ Lord Jesus Christ our God, through the prayers of our holy fathers, bless the food and drink of thy servants, for thou art holy, always, now and ever and unto ages of ages. ~R.~ Amen.",
+     "text_mk": "Сиромасите ќе јадат и ќе се наситат, и оние што Го бараат Господа ќе Го пофалат; нивните срца ќе живеат довека.\n\nСлава… И сега… Господи, помилуј. (трипати)\n\n~За свештеник:~ Христе Боже, благослови ги јадењето и пиењето на Твоите слуги, зашто си свет, секогаш, сега и секогаш и во вечни векови. ~Одг.~ Амин.\n\n~За мирјанин:~ Господи Исусе Христе, Боже наш, со молитвите на светите наши отци, благослови ги јадењето и пиењето на Твоите слуги, зашто си свет, секогаш, сега и секогаш и во вечни векови. ~Одг.~ Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "t06",
+     "title_en": "After Supper",
+     "title_mk": "По вечерата",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Glory to the Father and to the Son and to the Holy Spirit, now and ever and unto ages of ages. Amen.\n\nThy womb, O Theotokos, became a heavenly table, bearing the heavenly bread, Christ our God. Whosoever eats of him shall not perish: so said the Nourisher of all.\n\nMore honorable than the cherubim and more glorious beyond compare than the seraphim, without corruption thou gavest birth to God the Word: true Theotokos, we magnify thee.\n\nThou, O Lord, hast made us glad by thy creation, and in the works of thy hands will we rejoice. The light of thy countenance has been signed upon us, O Lord. Thou hast put gladness into my heart. From the fruit of their wheat and wine and oil have they been multiplied. In peace will I both lie down and sleep, for thou alone, O Lord, hast made me dwell in hope.\n\nGlory… Now and ever… Lord, have mercy. (thrice)\n\n~For a priest:~ God is with us through his grace and love for mankind, always, now and ever and unto ages of ages. ~R.~ Amen.\n\n~For a layman:~ Through the prayers of our holy fathers, O Lord Jesus Christ our God, have mercy on us. ~R.~ Amen.",
+     "text_mk": "Слава на Оца и Сина и Светиот Дух, сега и секогаш и во вечни векови. Амин.\n\nТвојата утроба, Богородице, стана небесна трпеза, носејќи го небесниот Леб, Христос, нашиот Бог. Секој што јаде од Него нема да загине: така рече Хранителот на сите.\n\nПочесна од херувимите и неспоредливо пославна од серафимите, Бога Словото девствено што Го роди, Тебе, вистинската Богородица ние Те величаме.\n\nТи, Господи, нè развесели со Своето создание, и со делата на Твоите раце ќе се радуваме. Светлината на Твоето лице се зазнамени врз нас, Господи. Ти внесе веселба во моето срце. Од плодот на нивната пченица, вино и елеј тие се умножија. Во мир ќе легнам и ќе заспијам, зашто Ти единствен, Господи, ме насели во надеж.\n\nСлава… И сега… Господи, помилуј. (трипати)\n\n~За свештеник:~ Бог е со нас, по Својата благодат и човекољубие, секогаш, сега и секогаш и во вечни векови. ~Одг.~ Амин.\n\n~За мирјанин:~ Со молитвите на светите наши отци, Господи Исусе Христе, Боже наш, помилуј нè. ~Одг.~ Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "mixed",
+      "note": "„Почесна од херувимите…“ – mpc.org.mk; „Слава на Оца…“ – m-p-c.org; останатото – превод",
+      "urls": [
+       "http://www.mpc.org.mk/Kalendar/prolog.asp?id=0x3918356A30AAAC758F584A01729DE7E4E6ED107A",
+       "https://www.m-p-c.org/?page_id=1794"
+      ]
+     }
+    },
+    {
+     "id": "t07",
+     "title_en": "A Prayer for Any Meal",
+     "title_mk": "Молитва за секој оброк",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Blessed God, who, from our youth, hast shown mercy and hast nourished us, giving food to all flesh: fill our hearts with joy and gladness, that having every sufficiency, we may become rich in every good deed, in Christ Jesus our Lord, to whom, with thee and the Holy Spirit, is due glory, dominion, honor, and worship, unto the ages. ~R.~ Amen.",
+     "text_mk": "Благословен Боже, Кој од нашата младост нè милуваш и нè храниш, давајќи храна на секое тело: исполни ги нашите срца со радост и веселба, за да имаме доволно од сè и да бидеме богати во секое добро дело, во Христос Исус, нашиот Господ, Кому, со Тебе и со Светиот Дух, Му припаѓа слава, власт, чест и поклонение, во вековите. ~Одг.~ Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "day",
+   "title_en": "Prayers during the day",
+   "title_mk": "Молитви преку денот",
+   "sub_en": "Prayers for the Hours of the Day & Night",
+   "sub_mk": "Молитви за часовите од денот и ноќта",
+   "prayers": [
+    {
+     "id": "h01",
+     "title_en": "Two Songs at Midnight",
+     "title_mk": "Две песни на полноќ",
+     "sub_en": "Tone Eight",
+     "sub_mk": "Глас осми",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Behold, the Bridegroom comes at midnight, and blessed is the servant whom he shall find watching. Again, unworthy is the servant whom he shall find heedless. Beware, therefore, O my soul, do not be weighed down with sleep, lest thou be given over to death, and be shut out of the kingdom. But rouse thyself, crying: Holy, Holy, Holy art thou, O God: through the Theotokos have mercy on us.\n\nAs thou dost think on that dread day, keep watch, O my soul. Light thy lamp and keep it filled with oil. Thou knowest not when thou shalt suddenly hear that voice crying out to thee: ‘Behold, the Bridegroom!’ Beware, therefore, O my soul, lest thou sleep, and find thyself knocking outside like the five virgins. Rather, keep a steadfast watch, that thou mayest greet Christ with fresh oil, and that he may grant thee the divine chamber of his glory.",
+     "text_mk": "Ете, Женихот доаѓа на полноќ, и блажен е слугата кого ќе го најде буден. А недостоен е, пак, оној кого ќе го најде безгрижен. Пази, затоа, душо моја, да не те совлада сонот, за да не бидеш предадена на смртта и да останеш надвор од Царството. Туку разбуди се, воскликнувајќи: Свет, Свет, Свет си, Боже; со молитвите на Богородица помилуј нè.\n\nПомислувајќи на тој страшен ден, бди, душо моја. Запали го својот светилник и чувај го полн со елеј. Не знаеш кога ненадејно ќе го чуеш гласот што ќе ти извика: „Ете, Женихот!“ Пази, затоа, душо моја, да не заспиеш и да се најдеш како оние пет девици, чукајќи однадвор. Туку бди постојано, за да Го пречекаш Христа со свеж елеј, и Он да ти ја дарува божествената одаја на Својата слава.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "h02",
+     "title_en": "Morning Prayer of the Last Elders of Optina",
+     "title_mk": "Утринска молитва на последните оптински старци",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Lord, grant that I may meet all that this coming day brings to me with spiritual tranquility. Grant that I may fully surrender myself to thy holy will. At every hour of this day, direct and support me in all things. Whatever news may reach me in the course of the day, teach me to accept it with a calm soul and the firm conviction that all is subject to thy holy will. Guide my thoughts and feelings in all my words and actions. In all unexpected occurrences, let me not forget that all is sent down from thee. Grant me to deal in a straightforward and wise manner with every member of my family, neither embarrassing nor saddening anyone. O Lord, grant me power to endure the fatigue of the coming day and all the events that will take place during it. Guide my will and teach me to pray, to believe, to hope, to be patient, to forgive, and to love. Amen.",
+     "text_mk": "Господи, дај ми со душевен мир да пречекам сè што ќе ми донесе овој ден што настапува. Дај ми целосно да се предадам на Твојата света волја. Во секој час од овој ден, во сè упатувај ме и поддржувај ме. Каква и да е веста што ќе ме стигне во текот на денот, научи ме да ја примам со спокојна душа и со цврсто убедување дека сè е подложно на Твојата света волја. Управувај ги моите мисли и чувства во сите мои зборови и дела. Во сите неочекувани случки, не давај ми да заборавам дека сè е испратено од Тебе. Дај ми да постапувам искрено и мудро со секој член на моето семејство, никого не засрамувајќи и никого не нажалувајќи. Господи, дај ми сила да го поднесам заморот на денот што настапува и сите настани што ќе се случат во него. Управувај ја мојата волја и научи ме да се молам, да верувам, да се надевам, да трпам, да простувам и да љубам. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "h03",
+     "title_en": "Morning Prayer of Saint Philaret of Moscow",
+     "title_mk": "Утринска молитва на свети Филарет Московски",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "My Lord, I know not what to ask of thee. Thou alone knowest my need. Thou lovest me more than I know to love thee. Father, I am thy servant: grant me all I dare not ask. I ask neither for a cross nor for comfort; I simply stand in thy presence. My heart is open to thee. Thou seest my needs, of which I myself am unaware. Look upon me and act toward me in accordance with thy mercy: smite and heal, cast down and raise up. In thy presence I stand, reverent and silent before thy holy will and thy judgments, to which I cannot attain. To thee I offer myself in sacrifice. I commend myself to thee. I have no desire except to fulfill thy will. Teach me to pray. Do thou thyself pray within me. Amen.",
+     "text_mk": "Господи мој, не знам што да барам од Тебе. Ти единствен знаеш што ми е потребно. Ти ме љубиш повеќе отколку што јас умеам да Те љубам. Оче, јас сум Твој слуга: дај ми сè што не се осмелувам да побарам. Не барам ни крст ни утеха; само стојам во Твоето присуство. Моето срце е отворено пред Тебе. Ти ги гледаш моите потреби, за кои и самиот не знам. Погледни на мене и постапи со мене според Својата милост: порази и исцели, собори и подигни. Пред Тебе стојам, со страхопочит и молчејќи пред Твојата света волја и пред Твоите судови, до кои не можам да досегнам. Тебе Ти се принесувам себеси како жртва. Тебе Ти се предавам. Немам друга желба освен да ја исполнам Твојата волја. Научи ме да се молам. Ти Самиот моли се во мене. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "h04",
+     "title_en": "Two Prayers for the Morning",
+     "title_mk": "Две молитви за утрото",
+     "sub_en": "(First Hour, that is, about 7 AM) · by Saint Basil the Great",
+     "sub_mk": "(Прв час, т.е. околу 7 часот наутро) · од свети Василиј Велики",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O eternal God, everlasting Light without beginning, Fashioner of all creation, Fountain of mercy, Ocean of goodness, and searchless Abyss of love for mankind: cause the light of thy countenance to shine upon us, O Lord. Dawn in our hearts, O noetic Sun of Righteousness, and fill our souls with thy delight, and teach us always to meditate on and proclaim thy judgments, and to render thee our unceasing praise, O our Master and Benefactor. Direct the work of our hands according to thy will, and help us to do those things which are well-pleasing and dear unto thee, that through us unworthy ones thy most holy Name may be glorified: of the Father and of the Son and of the Holy Spirit, one Godhead and Kingdom, to whom is due all glory, honor, and worship, unto the ages. Amen.\n\nO thou who sendest forth the light, and it goeth; who dost make the sun to rise upon the just and the unjust, upon the evil and the good, making the morning and enlightening the world: enlighten our hearts as well, O Master of all, and grant us during the present day to be well-pleasing unto thee. Preserve us from every sin and every work of evil, delivering us from every arrow that flies by day and from every adverse power: through the prayers of our immaculate Queen, the Theotokos; of thine immaterial ministers, the heavenly hosts; and of all the saints who from the beginning have been well-pleasing unto thee. For thine it is to have mercy and to save us, O our God, and unto thee do we send up glory: to the Father and to the Son and to the Holy Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Вечен Боже, вечна и беспочетна Светлино, Творче на секое создание, Изворе на милоста, Океану на добрината и неиспитлива Бездно на човекољубието: засветли ја врз нас светлината на Твоето лице, Господи. Огреј во нашите срца, мисловно Сонце на правдата, исполни ги нашите души со Твојата радост и научи нè секогаш да размислуваме за Твоите судови и да ги проповедаме, и непрестајно да Ти воздаваме пофалба, Владико наш и Добротворе. Управувај го делото на нашите раце според Твојата волја и помогни ни да го правиме она што Ти е угодно и мило, за преку нас, недостојните, да се прослави Твоето пресвето име, на Оца и Сина и Светиот Дух, едното Божество и Царство, Кому Му припаѓа секоја слава, чест и поклонение, во вековите. Амин.\n\nТи Кој ја испраќаш светлината и таа оди; Кој правиш сонцето да изгрева над праведните и неправедните, над злите и добрите, Кој го создаваш утрото и го просветлуваш светот: просветли ги и нашите срца, Владико на сè, и дај ни во овој ден да Ти бидеме угодни. Зачувај нè од секој грев и од секое зло дело, избавувајќи нè од секоја стрела што лета дење и од секоја противничка сила: со молитвите на нашата пренепорочна Царица, Богородица, на Твоите бестелесни служители, небесните сили, и на сите светии, што од искона Ти угодиле. Зашто Твое е да нè милуваш и да нè спасуваш, Боже наш, и Тебе Ти воздаваме слава, на Оца и Сина и Светиот Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "h05",
+     "title_en": "A Prayer for Mid-Morning",
+     "title_mk": "Молитва за предпладне",
+     "sub_en": "(Third Hour, that is, about 9 AM) · by Saint Basil the Great",
+     "sub_mk": "(Трет час, т.е. околу 9 часот наутро) · од свети Василиј Велики",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Lord our God, who hast given peace unto men and hast sent down the gift of thine All-holy Spirit upon thy disciples and apostles, and didst by thy power open their lips with the tongues of fire: open also the lips of us sinners and teach us how and for what we must pray. Be thou the helmsman of our life, O thou calm haven of the storm-tossed, and make known unto us the way wherein we should walk. Renew an upright spirit in our inmost parts and by thy ruling Spirit make steadfast our fickle mind, so that each day being led by thy good Spirit toward whatever is profitable, we may be counted worthy to accomplish thy commandments and to keep always in remembrance thy glorious coming, which searches out the deeds of men. Lend us thy power, lest we be deceived by the ruinous delights of this world: give us instead to yearn for the enjoyment of the treasures laid up for the age to come: for blessed and praised art thou in all thy saints, unto ages of ages. Amen.",
+     "text_mk": "Господи Боже наш, Кој им даде мир на луѓето и го испрати дарот на Твојот Пресвет Дух врз Твоите ученици и апостоли, и со Својата сила им ги отвори усните со огнени јазици: отвори ги и усните на нас грешните и научи нè како и за што треба да се молиме. Биди кормилар на нашиот живот, Ти, тивко пристаниште за оние што ги фрла бурата, и покажи ни го патот по кој треба да одиме. Обнови прав дух во нашата утроба и со Твојот владетелски Дух зацврсти го нашиот непостојан ум, за секој ден, водени од Твојот благ Дух кон она што е полезно, да се удостоиме да ги исполнуваме Твоите заповеди и секогаш да го паметиме Твоето славно доаѓање, кое ги испитува делата на луѓето. Дарувај ни од Својата сила, за да не бидеме измамени од погубните наслади на овој свет; дај ни, наместо тоа, да копнееме по уживањето во богатствата приготвени за идниот век: зашто благословен и прославен си во сите Твои светии, во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "h06",
+     "title_en": "A Prayer for Midday",
+     "title_mk": "Молитва за пладне",
+     "sub_en": "(Sixth Hour, that is, about noon) · by Saint Basil the Great",
+     "sub_mk": "(Шести час, т.е. околу пладне) · од свети Василиј Велики",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O God, the Lord of Hosts and Author of all creation, who in thine ineffable and tender mercy hast sent down thine Only-begotten Son, our Lord Jesus Christ, for the salvation of our kind, and through his precious Cross hast torn up the record of our sins, and thereby triumphed over the princes and dominions of darkness: do thou, O Master who lovest mankind, accept these prayers of thanksgiving and supplication even from us sinners, and deliver us from every dark and deadly transgression and from all the visible and invisible enemies that seek to do us harm. Nail down our flesh with the fear of thee, and let not our hearts incline to evil words or thoughts; rather, wound our souls with thy love, that ever gazing upon thee, guided by thy light, and beholding thee, the eternal Light that no man can approach, we may offer up unceasing praises and thanksgiving unto thee: the Father without beginning, together with thine Only-begotten Son, and thine all-holy, good, and life-giving Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Боже, Господи на силите и Творче на секое создание, Кој по Своето неискажливо и нежно милосрдие го испрати Својот Единороден Син, нашиот Господ Исус Христос, за спасение на нашиот род, и преку Неговиот чесен Крст го раскина записот на нашите гревови и со тоа победи над началствата и властите на темнината: Ти Самиот, Владико Човекољубче, прими ги овие благодарствени и молбени молитви и од нас грешните, и избави нè од секое темно и смртоносно престапување и од сите видливи и невидливи непријатели што бараат да ни наштетат. Приковај ја нашата плот со Твојот страв и не давај нашите срца да се приклонат кон лоши зборови или помисли; туку рани ги нашите души со Твојата љубов, за секогаш да гледаме кон Тебе, водени од Твојата светлина, и гледајќи Те Тебе, вечната Светлина, до која никој не може да пристапи, непрестајно да Ти принесуваме пофалби и благодарност: на беспочетниот Отец, заедно со Твојот Единороден Син и Твојот пресвет, благ и животворен Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "h07",
+     "title_en": "A Prayer for Mid-Afternoon",
+     "title_mk": "Молитва за попладне",
+     "sub_en": "(Ninth Hour, that is, about 3 PM) · by Saint Basil the Great",
+     "sub_mk": "(Деветти час, т.е. околу 3 часот попладне) · од свети Василиј Велики",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Master and Lord, Jesus Christ our God, who art long-suffering toward our faults and hast brought us even unto this present hour, in which, hanging upon the life-giving Cross, thou didst open unto the good thief the way into paradise and destroy death by death: be merciful to us, thy sinful and unworthy servants, for we have sinned and transgressed, and we are not worthy to lift up our eyes and look at the height of heaven, since we have forsaken the path of thy righteousness and have walked according to the desires of our own hearts. But we pray thee of thy boundless goodness: spare us, O Lord, according to the abundance of thy mercy, and save us for thy holy Name’s sake, for our days have been consumed in vanity. Pluck us from the hand of the adversary, forgive us our sins, and kill our fleshly lusts, that putting off the old man, we may put on the new, and may live for thee, our Master and Guardian; that so following thine ordinances, we may attain to eternal rest, in the place where all the joyful dwell. For thou, O Christ our God, art indeed the true joy and gladness of those that love thee, and to thee we send up glory, together with thy Father who is without beginning, and thine all-holy, good, and life-giving Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Владико Господи Исусе Христе, Боже наш, Кој си долготрпелив кон нашите прегрешенија и нè доведе до овој сегашен час, во кој, висејќи на животворниот Крст, му го отвори на добриот разбојник патот во рајот и со смрт ја уништи смртта: биди милостив кон нас, Твоите грешни и недостојни слуги, зашто згрешивме и беззаконувавме, и не сме достојни да ги подигнеме очите и да погледнеме во височината небесна, бидејќи го оставивме патот на Твојата праведност и одевме според желбите на своите срца. Но Те молиме, поради Твојата безгранична добрина: поштеди нè, Господи, според мноштвото на Твојата милост, и спаси нè заради Твоето свето име, зашто нашите денови поминаа во суета. Истргни нè од раката на противникот, прости ни ги гревовите и умртви ги нашите телесни похоти, за да го соблечеме стариот човек и да се облечеме во новиот, и да живееме за Тебе, нашиот Владика и Заштитник; и така, следејќи ги Твоите наредби, да стигнеме до вечниот покој, во местото каде што живеат сите што се радуваат. Зашто Ти, Христе Боже наш, си навистина вистинската радост и веселба на оние што Те љубат, и Тебе Ти воздаваме слава, заедно со Твојот беспочетен Отец и Твојот пресвет, благ и животворен Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "h08",
+     "title_en": "A Prayer for Early Evening",
+     "title_mk": "Молитва за рана вечер",
+     "sub_en": "by Saint Basil the Great",
+     "sub_mk": "од свети Василиј Велики",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Blessed art thou, O Lord Almighty, who hast illumined the day with sunlight and hast cheered and brightened the night with rays of fire, who hast granted us to pass the course of the day and to approach the threshold of night: hear our petitions and those of all thy people, and pardoning all our sins, both voluntary and involuntary, accept our evening supplications, and send down the abundant mercy of thy compassion upon thine inheritance. Defend us with thy holy angels. Arm us with the armor and the weapons of thy justice. Build for us a bulwark of thy truth. Keep thy watch over us by thy power. Deliver us from every danger and from every plot of the adversary. Grant that this present evening and the coming night and all the days of our life may be perfect, holy, peaceful, and sinless, without stumbling and vain fantasy: through the prayers of the holy Theotokos and of all the saints who from the ages have been well-pleasing unto thee. Amen.",
+     "text_mk": "Благословен си, Господи Седржителу, Кој го просветли денот со сончевата светлина и ја развесели и озари ноќта со огнени зраци, Кој нè удостои да го поминеме текот на денот и да се приближиме до прагот на ноќта: слушни ги нашите молби и молбите на сиот Твој народ, и простувајќи ни ги сите гревови, волни и неволни, прими ги нашите вечерни молитви и испрати ја изобилната милост на Твоето сочувство врз Твоето наследство. Огради нè со Твоите свети ангели. Вооружи нè со оклопот и оружјето на Твојата правда. Подигни ни бедем од Твојата вистина. Бди над нас со Својата сила. Избави нè од секоја опасност и од секое сплеткарење на противникот. Дај оваа сегашна вечер и ноќта што иде, и сите денови на нашиот живот да бидат совршени, свети, мирни и безгрешни, без сопнување и суетни мечтаења: со молитвите на светата Богородица и на сите светии што од векот Ти угодиле. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "h09",
+     "title_en": "A Prayer for the Night Seasons",
+     "title_mk": "Молитва за ноќните часови",
+     "sub_en": "by Saint Basil the Great",
+     "sub_mk": "од свети Василиј Велики",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Lord, O Lord, who hast delivered us from every arrow that flieth by day, deliver us also from everything that walketh in darkness. Receive the lifting up of our hands as an evening sacrifice. Make us worthy to pass without blame through the course of the night, untempted by evil. And deliver us from all anxiety and cowardice that come to us from the devil. Grant compunction to our souls, and make our thoughts mindful of the trial at thy dread and righteous Judgment. Nail down our flesh with the fear of thee, and mortify our earthly members, that in the stillness of sleep we may be enlightened by the vision of thy judgments. Take from us every unseemly fantasy and pernicious carnal desire. Raise us up at the hour of prayer, established in faith and advancing in thy commandments: through the grace and goodness of thine Only-begotten Son, with whom thou art blessed, together with thine all-holy, good, and life-giving Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Господи, Господи, Ти што нè избави од секоја стрела што лета дење, избави нè и од секоја работа што оди во темнината. Прими го кревањето на нашите раце како вечерна жртва. Удостој нè да го поминеме непорочно текот на ноќта, неискушени од злото. И избави нè од секоја вознемиреност и плашливост што ни доаѓаат од ѓаволот. Дарувај им скрушеност на нашите души и направи ги нашите мисли да внимаваат на испитот на Твојот страшен и праведен Суд. Приковај ја нашата плот со Твојот страв и умртви ги нашите земни удови, за во тишината на сонот да бидеме просветлени со созерцанието на Твоите судови. Оддалечи ја од нас секоја непристојна фантазија и погубна телесна желба. Подигни нè во часот на молитвата, утврдени во верата и напредувајќи во Твоите заповеди: по благодатта и добрината на Твојот Единороден Син, со Кого си благословен, заедно со Твојот пресвет, благ и животворен Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "h10",
+     "title_en": "A Prayer for Any Hour",
+     "title_mk": "Молитва за секој час",
+     "sub_en": "by Saint Joasaph of Belgorod",
+     "sub_mk": "од свети Јоасаф Белгородски",
+     "rubric_en": "St. Joasaph said this short prayer whenever the clock struck the hour. In this way he marked the passage of time, which runs swiftly past, never to return.",
+     "rubric_mk": "Свети Јоасаф ја изговарал оваа кратка молитва секогаш кога часовникот ќе го отчукал часот. Така го одбележувал минувањето на времето, кое брзо тече и никогаш не се враќа.",
+     "text_en": "Blessed be the day and hour at which my Lord Jesus Christ was born for my sake, endured crucifixion, and suffered death. O Lord Jesus, be present to me at the hour of my end, and receive into thy hands the wandering soul of me, thy servant N.: for the sake of the prayers of thy most pure Mother and of all thy saints, for blessed art thou unto ages of ages. Amen.",
+     "text_mk": "Благословен да е денот и часот во кој мојот Господ Исус Христос се роди заради мене, го претрпе распнувањето и ја претрпе смртта. Господи Исусе, биди со мене во часот на мојот крај и прими ја во Своите раце скитничката душа на мене, Твојот слуга Н.: заради молитвите на Твојата пречиста Мајка и на сите Твои светии, зашто благословен си во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "evening",
+   "title_en": "Evening Prayers",
+   "title_mk": "Вечерни молитви",
+   "sub_en": "Prayers Before Sleep",
+   "sub_mk": "Молитви пред спиење",
+   "prayers": [
+    {
+     "id": "e01",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "In the Name of the Father and of the Son and of the Holy Spirit. Amen.",
+     "text_mk": "Во името на Отецот и Синот и Светиот Дух. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "verified",
+      "urls": [
+       "https://pmz.mk/molitvenik/vecerni-molitvi/vecerna-molitva/"
+      ]
+     }
+    },
+    {
+     "id": "e02",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Through the prayers of our holy fathers, O Lord Jesus Christ our God, have mercy on us. Amen.\n\nGlory to thee, our God, glory to thee.",
+     "text_mk": "Со молитвите на светите наши отци, Господи Исусе Христе, Боже наш, помилуј нè. Амин.\n\nСлава Ти, Боже наш, слава Ти.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "mixed",
+      "note": "„Слава Ти, Боже наш, слава Ти“ – pmz.mk; „Со молитвите на светите наши отци…“ – превод",
+      "urls": [
+       "https://pmz.mk/molitvenik/vecerni-molitvi/vecerna-molitva/"
+      ]
+     }
+    },
+    {
+     "id": "e03",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O heavenly King, the Comforter, the Spirit of truth, who art everywhere present and fillest all things, Treasury of blessings, and Giver of life: come and abide in us, and cleanse us from every impurity, and save our souls, O Good One.",
+     "text_mk": "Цару небесен, Утешителу, Духу на вистината, Кој си насекаде и сè исполнуваш, ризницо на добрините, животодавче, дојди и всели се во нас, и очисти нè од секаква нечистотија и спаси ги, Благи, нашите души.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "verified",
+      "urls": [
+       "https://www.m-p-c.org/?page_id=1794"
+      ]
+     }
+    },
+    {
+     "id": "e04",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Holy God, Holy Mighty, Holy Immortal: have mercy on us. (thrice)\n\nGlory to the Father and to the Son and to the Holy Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Свети Боже, Свети Силни, Свети Бесмртни, помилувај нè. (трипати)\n\nСлава на Оца и Сина и Светиот Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "verified",
+      "urls": [
+       "https://www.m-p-c.org/?page_id=1794"
+      ]
+     }
+    },
+    {
+     "id": "e05",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Most Holy Trinity, have mercy on us. Lord, cleanse us from our sins. Master, pardon our transgressions. Holy One, visit and heal our infirmities, for thy Name’s sake.\n\nLord, have mercy. (thrice)\n\nGlory to the Father and to the Son and to the Holy Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Пресвета Троице помилувај нè, Господи, очисти ни ги гревовите, Владико прости ни ги безаконијата, Свети посети нè и излекувај ни ги нашите слабости, заради Твоето име.\n\nГосподи, помилуј. (трипати)\n\nСлава на Оца и Сина и Светиот Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "verified",
+      "urls": [
+       "https://www.m-p-c.org/?page_id=1794"
+      ]
+     }
+    },
+    {
+     "id": "e06",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Our Father, who art in heaven, hallowed be thy Name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from the evil one.",
+     "text_mk": "Оче наш, Кој си на небесата, да се свети името Твое, да дојде царството Твое, да биде волјата Твоја, како на небото, така и на земјата; лебот наш насушен дај ни го денес и прости ни ги долговите наши, како што им ги проштеваме и ние на нашите должници; и не воведувај нè во искушение, но избави нè од лукавиот.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "verified",
+      "urls": [
+       "https://www.m-p-c.org/?page_id=1804"
+      ]
+     }
+    },
+    {
+     "id": "e07",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "And these penitential troparia:",
+     "rubric_mk": "И овие покајни тропари:",
+     "text_en": "Have mercy on us, O Lord, have mercy on us, for laying aside all excuse, we sinners offer to thee, as our Master, this supplication: have mercy on us.\n\nGlory to the Father…\n\nO Lord, have mercy on us, for in thee have we put our trust. Do not be angry with us, nor remember our iniquities, but look down on us even now, since thou art compassionate, and deliver us from our enemies; for thou art our God, and we are thy people; we are all the work of thy hands, and we call on thy Name.\n\nNow and ever…\n\nO blessed Theotokos, open the doors of compassion to us whose hope is in thee, that we may not perish but be delivered from adversity through thee, who art the salvation of the Christian people.\n\nLord, have mercy. (twelve times)",
+     "text_mk": "Помилуј нè, Господи, помилуј нè; зашто, немајќи никакво оправдување, ние грешните Ти ја принесуваме оваа молитва како на Владика: помилуј нè.\n\nСлава на Оца…\n\nГосподи, помилуј нè, зашто на Тебе се надеваме. Не гневи се на нас, ниту спомнувај ги нашите беззаконија, туку погледни на нас и сега, бидејќи си милосрден, и избави нè од нашите непријатели; зашто Ти си нашиот Бог, а ние сме Твој народ; сите сме дело на Твоите раце и Го призиваме Твоето име.\n\nИ сега и секогаш…\n\nБлагословена Богородице, отвори ни ги вратите на милосрдието нам, што се надеваме на Тебе, за да не загинеме, туку преку Тебе да се избавиме од бедите, зашто Ти си спасение на христијанскиот род.\n\nГосподи, помилуј. (дванаесет пати)",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "mixed",
+      "note": "Тропарите – превод; „Слава на Оца…“, „Господи, помилуј“ – m-p-c.org",
+      "urls": [
+       "https://www.m-p-c.org/?page_id=1794"
+      ]
+     }
+    },
+    {
+     "id": "e08",
+     "title_en": "First Prayer, to God the Father",
+     "title_mk": "Прва молитва, кон Бога Отецот",
+     "sub_en": "by Saint Macarius the Great",
+     "sub_mk": "од свети Макариј Велики",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O eternal God and King of all creation, who hast counted me worthy to reach this hour: forgive the sins I have committed this day in deed, word, and thought, and cleanse, O Lord, my humble soul from every defilement of flesh and spirit. Grant, Lord, that I may pass through this night in peace, so that when I rise from my humble bed, I may please thy most holy Name all the days of my life and trample underfoot the enemies that wage war against me, whether fleshly or spiritual. And deliver me, O Lord, from vain thoughts which defile me and from evil lusts. For thine is the kingdom and the power and the glory, of the Father and of the Son and of the Holy Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Вечен Боже и Царе на секое создание, Кој ме удостои да го достигнам овој час: прости ми ги гревовите што ги сторив денес со дело, збор и мисла, и очисти ја, Господи, мојата смирена душа од секаква нечистотија на телото и духот. Дај ми, Господи, да ја поминам оваа ноќ во мир, за кога ќе станам од мојата смирена постела, да му угодувам на Твоето пресвето име во сите денови на мојот живот и да ги газам непријателите што војуваат против мене, било телесни или духовни. И избави ме, Господи, од суетните помисли што ме осквернуваат и од лошите похоти. Зашто Твое е царството и силата и славата, на Оца и Сина и Светиот Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e09",
+     "title_en": "Second Prayer, to Our Lord Jesus Christ",
+     "title_mk": "Втора молитва, кон Господ наш Исус Христос",
+     "sub_en": "by Saint Antiochus",
+     "sub_mk": "од свети Антиох",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Jesus Christ, Almighty, Word of the Father who art perfect: never abandon me, thy servant, for the sake of thy great loving-kindness, but ever abide in me. O Jesus, good Shepherd of thy sheep, do not deliver me over to the serpent’s rebellion, neither abandon me to Satan’s will, for in him is the seed of corruption. O holy King, Jesus Christ, who art adored as Lord and God, keep me while I sleep by thy unwavering Light, thy Holy Spirit by whom thou didst sanctify thy disciples. O Lord, grant to me, who am unworthy to be thy servant, salvation upon my bed. Enlighten my mind with the light of the understanding of thy holy Gospel, my soul with the love of thy Cross, my heart with the purity of thy word, my body with thy passionless Passion. Keep my thought with thy humility and raise me up in due time to glorify thee: for thou art most glorified, with thy Father who is without beginning, and thy Most Holy Spirit, forever. Amen.",
+     "text_mk": "Исусе Христе, Седржителу, Слово на Отецот, Ти Кој си совршен: поради Своето големо милосрдие никогаш не оставај ме мене, Твојот слуга, туку секогаш пребивај во мене. Исусе, добар Пастиру на Своите овци, не предавај ме на бунтот на змијата, ниту оставај ме на волјата на сатаната, зашто во него е семето на тлението. Свет Царе, Исусе Христе, Кому се поклонуваме како на Господ и Бог, чувај ме додека спијам со Својата непоколеблива Светлина, Твојот Свет Дух, со Кого ги освети Своите ученици. Господи, дај ми мене, недостојниот да бидам Твој слуга, спасение на мојата постела. Просветли го мојот ум со светлината на разбирањето на Твоето свето Евангелие, мојата душа со љубовта кон Твојот Крст, моето срце со чистотата на Твоето слово, моето тело со Твоето бестрасно Страдание. Чувај ја мојата мисла со Твоето смирение и подигни ме во вистинско време да Те прославам: зашто Ти си препрославен, со Твојот беспочетен Отец и Пресветиот Твој Дух, во векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e10",
+     "title_en": "Third Prayer, to the Most Holy Spirit",
+     "title_mk": "Трета молитва, кон Пресветиот Дух",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Lord, heavenly King, the Comforter, the Spirit of truth: reveal thy loving-kindness and have mercy on me, thy sinful servant; and absolve me, who am unworthy; and forgive all the sins I have committed today as a man, and indeed not as a man, but as if I were something worse than a beast. Yea, forgive my sins voluntary and involuntary, known and unknown, whether committed on account of my youth or because of knowledge and experience of evil, whether out of audacity or despondency. If I have sworn by thy Name or blasphemed it in thought; if I have reproached anyone or become angered by something; or slandered or saddened anyone in my anger; or have lied; or slept to excess; or if a poor man came to me and I despised him; or if I have saddened my brother or quarreled with him; or have judged someone; or have allowed myself to become haughty, proud, or angry; or if, while I stood in prayer, my mind was stirred up by the wicked things of this world; or if I have entertained depraved thoughts; or have over-eaten, over-drunk, or laughed frivolously; or have had evil thoughts or seen someone’s beauty and been wounded by it in my heart; or have said indecent things; or have laughed at my brother’s sins when my own transgressions are countless; or have been indifferent to prayer; or have done any other evil that I cannot remember, for I have done all this and more: have mercy, O Master, my Creator, on me, thy despondent and unworthy servant. Absolve, release, and forgive me, for thou art good and lovest mankind. And, prodigal, sinful, and wretched though I be, may I lie down in peace and find sleep and rest. And may I worship, hymn, and praise thy most honorable Name, with the Father and his Only-begotten Son, now and always and forever. Amen.",
+     "text_mk": "Господи, Небесен Царе, Утешителу, Духу на вистината: покажи го Своето милосрдие и смилувај се на мене, Твојот грешен слуга; разреши ме мене недостојниот и прости ми ги сите гревови што ги сторив денес како човек, па дури и не како човек, туку како нешто полошо од животно. Да, прости ми ги гревовите волни и неволни, познати и непознати, сторени било поради мојата младост, било поради познавањето и искуството на злото, било од дрскост или од малодушност. Ако сум се заколнал во Твоето име или сум го похулил во мислата; ако сум прекорил некого или сум се разгневил поради нешто; или сум наклеветил или нажалил некого во мојот гнев; или сум излажал; или сум спиел преку мера; или ако дошол кај мене сиромав, а јас сум го презрел; или ако сум го нажалил мојот брат или сум се скарал со него; или сум осудил некого; или сум си дозволил да станам надмен, горд или гневлив; или ако, додека стоев на молитва, мојот ум бил вознемирен од лукавите работи на овој свет; или ако сум се забавувал со развратни помисли; или сум се прејал, сум се опил или лекомислено сум се смеел; или сум имал лоши помисли, или сум видел нечија убавина и сум бил ранет од неа во срцето; или сум зборувал непристојни работи; или сум се смеел на гревовите на мојот брат, кога моите сопствени престапи се безбројни; или сум бил рамнодушен кон молитвата; или сум сторил некое друго зло што не можам да го спомнам, зашто сето ова и повеќе од ова сум го сторил: смилувај се, Владико, Создателу мој, на мене, Твојот унил и недостоен слуга. Разреши ме, ослободи ме и прости ми, зашто си благ и човекољубив. И, блуден, грешен и беден како што сум, да легнам во мир и да најдам сон и одмор. И да се поклонувам, да го воспевам и да го славам Твоето пречесно име, со Отецот и Неговиот Единороден Син, сега и секогаш и довека. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e11",
+     "title_en": "Fourth Prayer",
+     "title_mk": "Четврта молитва",
+     "sub_en": "by Saint Macarius the Great",
+     "sub_mk": "од свети Макариј Велики",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "What shall I offer thee? Or how can I repay thee, O immortal King, the Bestower of great gifts, O generous Lord and Lover of man? Though I have been lazy in pleasing thee and have done nothing good, thou hast brought me to the close of the day now past, arranging for the conversion and salvation of my soul. Be merciful to me, a sinner who am devoid of any good deeds. Raise up my fallen soul, defiled by immeasurable sins, and remove from me every evil intention of this visible life. Thou who alone art without sin, forgive me all the sins I have committed against thee this day, in knowledge or in ignorance; in word, deed, or thought; and through any of my senses. By thy divine authority, by thine inexpressible love for mankind, and by thy power, do thou cover me and protect me from every assault of the enemy. Cleanse, O God, cleanse the multitude of my sins. Be pleased, O Lord, to deliver me from the snares of the evil one and save my passionate soul, and when thou comest in glory, do thou overshadow me with the light of thy countenance.\n\nMay my sleep be blameless and free of fantasies. Keep the thoughts of thy servant untroubled; keep far from me every satanic activity. Enlighten the reason-endowed eyes of my heart, lest I sleep unto death. Send to me an angel of peace, a guide and guardian of my soul and body, that he may deliver me from my enemies. Then when I arise from my bed, I shall offer thee prayers of thanksgiving.\n\nYea, O Lord, hear me, thy servant, sinful and impoverished in will and conscience. When I have risen from sleep, grant me to learn thy words, and cause thine angels to drive demonic despondency far from me, that I may bless thy holy Name and praise and glorify Mary, the most pure Theotokos, whom thou hast given to us sinners as an advocate; and receive her as she prays for us, for we know that she imitates thy love for mankind and never ceases to pray. Through her intercessions, by the sign of the precious Cross, and for the sake of all thy saints, O Jesus Christ our God, have mercy on my poor soul, for thou art holy and most glorified forever. Amen.",
+     "text_mk": "Што да Ти принесам или како да Ти возвратам, бесмртен Царе, Дарителу на големи дарови, штедар Господи и Човекољубче? Иако бев мрзлив да Ти угодувам и ништо добро не сторив, Ти ме доведе до крајот на изминатиот ден, промислувајќи за обраќањето и спасението на мојата душа. Биди милостив кон мене, грешниот, што сум лишен од секакво добро дело. Подигни ја мојата паднала душа, осквернета од безмерни гревови, и отстрани ја од мене секоја лоша намера на овој видлив живот. Ти Кој единствен си безгрешен, прости ми ги сите гревови што Ти ги сторив денес, свесно или несвесно, со збор, дело или мисла, и преку кое било од моите сетила. Со Својата божествена власт, со Своето неискажливо човекољубие и со Својата сила, покриј ме и заштити ме од секој напад на непријателот. Очисти, Боже, очисти го мноштвото на моите гревови. Благоволи, Господи, да ме избавиш од замките на лукавиот и спаси ја мојата страстна душа, и кога ќе дојдеш во слава, осени ме со светлината на Своето лице.\n\nНека мојот сон биде непорочен и слободен од привиденија. Чувај ги мислите на Твојот слуга невознемирени; оддалечи ја од мене секоја сатанска дејност. Просветли ги разумните очи на моето срце, за да не заспијам во смрт. Испрати ми ангел на мирот, водач и чувар на мојата душа и тело, за да ме избави од моите непријатели. Тогаш, кога ќе станам од мојата постела, ќе Ти принесам благодарствени молитви.\n\nДа, Господи, слушни ме мене, Твојот слуга, грешен и осиромашен по волја и совест. Кога ќе станам од сонот, дај ми да се поучувам во Твоите зборови, и направи Твоите ангели да ја одгонат далеку од мене демонската униност, за да го благословувам Твоето свето име и да ја восфалувам и прославувам Марија, пречистата Богородица, Која ни ја даде нам грешните за застапница; и прими ја Неа кога се моли за нас, зашто знаеме дека Таа го подражава Твоето човекољубие и никогаш не престанува да се моли. Со Нејзиното застапништво, со знакот на чесниот Крст и заради сите Твои светии, Исусе Христе, Боже наш, помилуј ја мојата бедна душа, зашто си свет и препрославен довека. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e12",
+     "title_en": "Fifth Prayer",
+     "title_mk": "Петта молитва",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Lord our God, forgive all the sins I have committed this day in word, deed, or thought, for thou art good and lovest mankind. Grant me peaceful and untroubled sleep, and send thy guardian angel to protect and keep me from every evil: for thou art the guardian of our souls and bodies, and to thee we send up glory, to the Father and to the Son and to the Holy Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Господи Боже наш, прости ми ги сите гревови што ги сторив денес со збор, дело или мисла, зашто си благ и човекољубив. Дарувај ми мирен и спокоен сон, и испрати го Својот ангел чувар да ме заштитува и чува од секое зло: зашто Ти си чувар на нашите души и тела, и Тебе Ти воздаваме слава, на Оца и Сина и Светиот Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e13",
+     "title_en": "Sixth Prayer",
+     "title_mk": "Шеста молитва",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O Lord our God, in whom we have believed and upon whose Name we call more than any other name: grant relief to our souls and bodies as we go to sleep, and keep us from every fantasy and dark pleasure. Halt the onslaught of passions and quench the burning arousals of the flesh. Grant us to live chastely in word and deed, that we may embrace a life of virtue and not fall away from thy promised blessings, for blessed art thou forever. Amen.",
+     "text_mk": "Господи Боже наш, во Кого поверувавме и Чие име го призиваме повеќе од секое друго име: дарувај олеснување на нашите души и тела додека одиме на спиење, и чувај нè од секое привидение и темна наслада. Запри го налетот на страстите и изгаси ги разгорените возбуди на телото. Дај ни да живееме целомудрено со збор и дело, за да го прегрнеме доблесниот живот и да не отпаднеме од Твоите ветени блага, зашто благословен си довека. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e14",
+     "title_en": "Seventh Prayer",
+     "title_mk": "Седма молитва",
+     "sub_en": "by Saint John Chrysostom",
+     "sub_mk": "од свети Јован Златоуст",
+     "rubric_en": "Supplications for the 24 hours of the day and night.",
+     "rubric_mk": "Молби за дваесет и четирите часа од денот и ноќта.",
+     "text_en": "~For the day:~\n\nLord, deprive me not of thy heavenly blessings. Lord, deliver me from eternal torments. Lord, whether I have sinned in thought or intent, word or deed, forgive me. Lord, deliver me from all ignorance, forgetfulness, cowardice, and callous insensitivity. Lord, deliver me from every temptation. Lord, enlighten my heart which evil desires have darkened. Lord, as a man I have sinned; do thou, as the compassionate God, have mercy on me, knowing the weakness of my soul. Lord, send thy grace to my aid, that I may glorify thy holy Name. Lord Jesus Christ, inscribe me, thy servant, in the book of life, and grant me a good end. Lord, my God, although I have done nothing good before thee, grant by thy grace that I may make a good beginning. Lord, sprinkle in my heart the dew of thy grace. Lord of heaven and earth, remember me, thy sinful, shameful, and unclean servant, in thy kingdom. Amen.\n\n~For the night:~\n\nLord, accept me in repentance. Lord, do not abandon me. Lord, lead me not into temptation. Lord, grant me good thoughts. Lord, grant me tears, the remembrance of death, and compunction. Lord, give me the intention to confess my sins. Lord, grant me humility, chastity, and obedience. Lord, grant me patience, courage, and meekness. Lord, plant within me the root of all blessings: the fear of thee in my heart. Lord, grant me to love thee with my whole soul and intention, and to do thy will in all things. Lord, protect me from trials coming from men or demons or passions, and from any other unseemly thing. Lord, thou knowest thy creation and doest with it as thou wilt: may thy will be done in me, a sinner, for blessed art thou forever. Amen.",
+     "text_mk": "~За денот:~\n\nГосподи, не лишувај ме од Своите небесни блага. Господи, избави ме од вечните маки. Господи, ако сум згрешил со ум или намера, со збор или дело, прости ми. Господи, избави ме од секое незнаење, заборав, малодушност и окамената бесчувствителност. Господи, избави ме од секое искушение. Господи, просветли го моето срце, што лошите желби го помрачија. Господи, како човек згрешив; Ти, како милосрден Бог, помилуј ме, знаејќи ја немоќта на мојата душа. Господи, испрати ја Својата благодат на помош, за да го прославам Твоето свето име. Господи Исусе Христе, впиши ме мене, Твојот слуга, во книгата на животот и дарувај ми добар крај. Господи Боже мој, иако ништо добро не сторив пред Тебе, дај ми по Својата благодат да направам добар почеток. Господи, поросувај го моето срце со росата на Својата благодат. Господи на небото и земјата, спомни ме мене, Твојот грешен, засрамен и нечист слуга, во Своето царство. Амин.\n\n~За ноќта:~\n\nГосподи, прими ме во покајание. Господи, не оставај ме. Господи, не воведувај ме во искушение. Господи, дај ми добри помисли. Господи, дај ми солзи, сеќавање на смртта и скрушеност. Господи, дај ми намера да ги исповедам своите гревови. Господи, дај ми смирение, целомудреност и послушност. Господи, дај ми трпение, храброст и кротост. Господи, всади го во мене коренот на сите блага: Твојот страв во моето срце. Господи, дај ми да Те љубам со сета своја душа и намера и во сè да ја вршам Твојата волја. Господи, заштити ме од искушенија што доаѓаат од луѓе или демони или страсти, и од секоја друга непристојна работа. Господи, Ти го знаеш Своето создание и постапуваш со него како што сакаш: нека биде Твојата волја во мене, грешниот, зашто благословен си довека. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e15",
+     "title_en": "Eighth Prayer",
+     "title_mk": "Осма молитва",
+     "sub_en": "To Our Lord Jesus Christ",
+     "sub_mk": "Кон Господ наш Исус Христос",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Lord Jesus Christ, Son of God, for the sake of thy most honorable Mother; thy fleshless angels; thy Prophet, Forerunner, and Baptist; the divinely inspired apostles; the radiant and victorious martyrs; the venerable and God-bearing fathers; and of all the saints: deliver me from this present assault of the devil. Yea, my Lord and Creator, who desirest not the death of the sinner, but that he should turn to thee and live: grant repentance to me, wretched and unworthy, and snatch me from the jaws of the serpent, ravenous and perilous, who would devour me and drag me down to hell alive. Yea, my Lord, my Comfort, who didst put on corruptible flesh for the sake of my wretchedness, lift me up from this wretchedness and bring comfort to my wretched soul. Plant in my heart the desire to keep thy precepts, to renounce my evil deeds, and to obtain thy blessings. In thee, O Lord, have I trusted: save me.",
+     "text_mk": "Господи Исусе Христе, Сине Божји, заради Твојата пречесна Мајка, Твоите бестелесни ангели, Твојот Пророк, Претеча и Крстител, боговдахновените апостоли, светлите и победоносни маченици, преподобните и богоносни отци и сите светии: избави ме од овој сегашен напад на ѓаволот. Да, Господи мој и Создателу, Кој не ја сакаш смртта на грешникот, туку да се обрати кон Тебе и да живее: дарувај покајание мене, бедниот и недостојниот, и грабни ме од челуста на змијата, ненаситна и погубна, која сака да ме проголта и да ме повлече жив во пеколот. Да, Господи мој, Утехо моја, Ти Кој заради мојата беда се облече во распадливо тело, подигни ме од оваа беда и донеси утеха на мојата бедна душа. Всади ми во срцето желба да ги чувам Твоите заповеди, да се одречам од своите лоши дела и да ги добијам Твоите блага. На Тебе, Господи, се надевав: спаси ме.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e16",
+     "title_en": "Ninth Prayer, to the Most Holy Theotokos",
+     "title_mk": "Деветта молитва, кон Пресвета Богородица",
+     "sub_en": "by Peter the Studite",
+     "sub_mk": "од Петар Студит",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O most pure Mother of God, in my wretched state I fall down before thee in prayer: thou knowest, O Queen, that I constantly sin and anger thy Son and my God. But though I repent many times, and repent with trembling, yet I appear a liar before God. Shall not God smite me? — but an hour passes and I do the same things. Knowing this, my Lady, my Queen and Theotokos, I pray thee: have mercy on me, strengthen me, and grant me to do good. O my Lady Theotokos, thou knowest that I abhor my evil deeds and love the Law of my God with all my thought. But, most pure Lady! I do not understand how I can hate what I love and turn away from what is good. Do not allow my will to be done, O Most Pure, for it is not pleasing to God; but rather may the will of thy Son and my God be done. May he save and enlighten me, and give me the grace of his Holy Spirit, so that henceforth I may abandon my squalid activity and live the remainder of my life in obedience to thy Son, to whom belongs all glory, honor, and dominion, together with his Father who is without beginning and his all-holy, good, and life-giving Spirit, now and ever and unto ages of ages. Amen.",
+     "text_mk": "Пречиста Мајко Божја, во мојата бедна состојба паѓам пред Тебе во молитва: Ти знаеш, Царице, дека постојано грешам и Го гневам Твојот Син и мојот Бог. И иако многупати се каам, и се каам со трепет, сепак пред Бога се покажувам лажливец. Нема ли Бог да ме порази? — но поминува еден час и пак ги правам истите работи. Знаејќи го ова, Владичице моја, Царице моја и Богородице, Те молам: смилувај се на мене, зајакни ме и дај ми да правам добро. Владичице моја Богородице, Ти знаеш дека ги мразам своите лоши дела и го љубам Законот на мојот Бог со сета своја мисла. Но, пречиста Владичице! не разбирам како можам да го мразам она што го љубам и да се одвраќам од она што е добро. Не дозволувај да биде мојата волја, Пречиста, зашто таа не Му е угодна на Бога; туку нека биде волјата на Твојот Син и мојот Бог. Нека ме спаси и просветли, и нека ми ја даде благодатта на Својот Свет Дух, за отсега да ја оставам својата гнасна дејност и остатокот од животот да го поминам во послушност на Твојот Син, Кому Му припаѓа секоја слава, чест и власт, заедно со Неговиот беспочетен Отец и Неговиот пресвет, благ и животворен Дух, сега и секогаш и во вечни векови. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e17",
+     "title_en": "Tenth Prayer",
+     "title_mk": "Десетта молитва",
+     "sub_en": "To the Most Holy Theotokos",
+     "sub_mk": "Кон Пресвета Богородица",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O good Mother of the good King, most pure and blessed Theotokos, Mary, pour out the mercy of thy Son and our God upon my passionate soul, and guide me toward good deeds through thy prayers, that I may pass through the remainder of my life without stain, and find paradise through thee, O Virgin Mother of God, who alone art pure and blessed.",
+     "text_mk": "Блага Мајко на благиот Цар, пречиста и благословена Богородице Марија, излеј ја милоста на Твојот Син и нашиот Бог врз мојата страстна душа, и со Твоите молитви упати ме кон добри дела, за да го поминам остатокот од својот живот без порок и преку Тебе да го најдам рајот, Дево Богородице, Која единствена си чиста и благословена.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e18",
+     "title_en": "Eleventh Prayer",
+     "title_mk": "Единаесетта молитва",
+     "sub_en": "To the Guardian Angel",
+     "sub_mk": "Кон ангелот чувар",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Angel of Christ, my holy guardian and protector of my soul and body: forgive me for all the sins I have committed this day, and deliver me from all the wiles of the enemy who opposes me, lest I anger my God by some sin. Pray for me, thy sinful and unworthy servant, that thou mayest show me worthy of the goodness and mercy of the All-holy Trinity, of the Mother of my Lord Jesus Christ, and of all the saints. Amen.",
+     "text_mk": "Ангеле Христов, свет мој чувару и заштитнику на мојата душа и тело: прости ми ги сите гревови што ги сторив денес, и избави ме од сите лукавства на непријателот што ми се противи, за да не Го разгневам мојот Бог со некој грев. Моли се за мене, твојот грешен и недостоен слуга, за да ме покажеш достоен за добрината и милоста на Пресвета Троица, на Мајката на мојот Господ Исус Христос и на сите светии. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e19",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "And these verses:",
+     "rubric_mk": "И овие стихови:",
+     "text_en": "O victorious leader of triumphant hosts, we, thy servants, delivered from evil, sing our grateful thanks to thee, O Theotokos. As thou dost possess invincible might, set us free from every calamity, so that we may sing: Rejoice, O unwedded Bride!\n\nMost glorious, ever-virgin Mother of Christ our God, present our prayer to thy Son and our God, that through thee he may save our souls.\n\nAll my hope I place in thee, O Mother of God: keep me under thy veil.\n\nVirgin Theotokos, do not despise me, a sinner, for I am in need of thy help and intercession. My soul has hoped in thee: have mercy on me.\n\nMy hope is the Father. My refuge is the Son. My protection is the Holy Spirit. O Holy Trinity, glory to thee.",
+     "text_mk": "Војводо победоносна на триумфалните војски, ние, Твоите слуги, избавени од злото, Ти пееме благодарствена песна, Богородице. Бидејќи имаш непобедлива сила, ослободи нè од секаква несреќа, за да Ти пееме: Радувај се, Невесто неневестна!\n\nПреславна Приснодево, Мајко на Христа Бога, принеси ја нашата молитва пред Твојот Син и нашиот Бог, за преку Тебе да ги спаси нашите души.\n\nСета своја надеж ја полагам на Тебе, Мајко Божја: чувај ме под Својот покров.\n\nДево Богородице, не презирај ме мене грешниот, зашто имам потреба од Твојата помош и застапништво. На Тебе се надева мојата душа: помилуј ме.\n\nМојата надеж е Отецот. Моето прибежиште е Синот. Мојата заштита е Светиот Дух. Света Троице, слава Ти.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e20",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "During fasting seasons, on Sunday through Thursday nights, we say the Prayer of St. Ephraim (see Morning Prayers), with prostrations.",
+     "rubric_mk": "Во време на пости, во вечерите од недела до четврток, се чита молитвата на свети Ефрем (види Утрински молитви), со поклони.",
+     "text_en": "",
+     "text_mk": "",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e21",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "It is truly meet to bless thee, O Theotokos, ever-blessed and most pure and the Mother of our God. More honorable than the cherubim and more glorious beyond compare than the seraphim, without corruption thou gavest birth to God the Word: true Theotokos, we magnify thee. (prostration)\n\nGlory to the Father and to the Son and to the Holy Spirit, now and ever and unto ages of ages. Amen.\n\nLord, have mercy. (thrice)",
+     "text_mk": "Достојно е, навистина, Тебе да Те прославуваме Богородице, секогаш блажена и пренепорочна и Мајка на нашиот Бог. Почесна од херувимите и неспоредливо пославна од серафимите, Бога Словото девствено што Го роди, Тебе, вистинската Богородица ние Те величаме. (поклон)\n\nСлава на Оца и Сина и Светиот Дух, сега и секогаш и во вечни векови. Амин.\n\nГосподи, помилуј. (трипати)",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "mixed",
+      "note": "„Достојно е“ – mpc.org.mk; „Слава на Оца…“, „Господи, помилуј“ – m-p-c.org",
+      "urls": [
+       "http://www.mpc.org.mk/Kalendar/prolog.asp?id=0x3918356A30AAAC758F584A01729DE7E4E6ED107A",
+       "https://www.m-p-c.org/?page_id=1794"
+      ]
+     }
+    },
+    {
+     "id": "e22",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "Lord Jesus Christ, Son of God, through the prayers of thy most pure Mother, of my holy guardian angel, of [name of your patron saint], of [saint(s) of the day], and of all the saints: save me, a sinner. Amen.",
+     "text_mk": "Господи Исусе Христе, Сине Божји, со молитвите на Твојата пречиста Мајка, на мојот свет ангел чувар, на [име на твојот светител-заштитник], на [светителот/светителите на денот] и на сите светии: спаси ме мене грешниот. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e23",
+     "title_en": "A Prayer of Saint John of Damascus",
+     "title_mk": "Молитва на свети Јован Дамаскин",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "said while pointing to the bed:",
+     "rubric_mk": "што се изговара покажувајќи кон постелата:",
+     "text_en": "O Master who lovest mankind, is this bed to be my coffin? Or wilt thou grant my wretched soul to see the light of another day? Behold: before me lies the tomb, before me standeth death. I fear thy judgment and eternal torment, and yet, O Lord, I do not cease from doing evil. I always anger thee, O Lord my God, and thy most pure Mother, and all the heavenly powers, and my holy guardian angel. I know, O Lord, that I am unworthy of thy love for mankind; rather, I am worthy of every condemnation and torment. Yet save me, O Lord, whether I will it or not! For to save the righteous is no great thing, and to have mercy on the pure is nothing wonderful, for they are worthy of mercy. But make marvelous thy mercy toward me, a sinner, and so reveal thy love for mankind, lest my wickedness overcome thine inexpressible goodness and mercy. Order my life as thou wilt.",
+     "text_mk": "Владико Човекољубче, зар оваа постела ќе ми биде ковчег? Или ќе ја удостоиш мојата бедна душа да ја види светлината на уште еден ден? Ете: пред мене лежи гробот, пред мене стои смртта. Се плашам од Твојот суд и од вечната мака, а сепак, Господи, не престанувам да правам зло. Секогаш Те гневам Тебе, Господи Боже мој, и Твојата пречиста Мајка, и сите небесни сили, и мојот свет ангел чувар. Знам, Господи, дека сум недостоен за Твоето човекољубие; напротив, достоен сум за секаква осуда и мака. Но спаси ме, Господи, сакал јас или не сакал! Зашто да се спаси праведникот не е ништо големо, и да се помилува чистиот не е ништо чудесно, зашто тие се достојни за милост. Туку покажи ја чудесно Својата милост кон мене, грешниот, и така откриј го Своето човекољубие, за да не ја надвладее мојата злоба Твојата неискажлива добрина и милост. Уреди го мојот живот како што сакаш.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e24",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "Before lying down in bed:",
+     "rubric_mk": "Пред да легнеш во постелата:",
+     "text_en": "Enlighten mine eyes, O Christ God, lest I sleep unto death, lest my enemy say: ‘I have prevailed over him.’\n\nGlory to the Father…\n\nBe my soul’s advocate, O good God, for I walk in the midst of many snares. Deliver me from them and save me in thy love for mankind.\n\nNow and ever…\n\nWith all our heart and never-silent mouths let us praise the most glorious Mother of God, more holy than the holy angels. Let us confess her as Theotokos, for in very truth she gave birth to God made flesh, and without ceasing she prays for our souls.",
+     "text_mk": "Просветли ги моите очи, Христе Боже, за да не заспијам во смрт, за да не рече мојот непријател: „Го надвладеав.“\n\nСлава на Оца…\n\nБиди застапник на мојата душа, благ Боже, зашто одам среде многу замки. Избави ме од нив и спаси ме, по Своето човекољубие.\n\nИ сега и секогаш…\n\nСо сето срце и со неумолкливи усти да ја восфалиме преславната Мајка Божја, посвета од светите ангели. Да ја исповедаме како Богородица, зашто навистина Таа Го роди воплотениот Бог и непрестајно се моли за нашите души.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e25",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "Then kiss the cross and make the sign of the Cross over the bed, head to foot and then side to side, saying this prayer to the precious Cross:",
+     "rubric_mk": "Потоа целуни го крстот и прекрсти ја постелата, од главата кон нозете и потоа од едната до другата страна, изговарајќи ја оваа молитва кон чесниот Крст:",
+     "text_en": "Let God arise; let his enemies be scattered. Let those who hate him flee from before his face. As smoke vanishes so let them vanish, as wax melts before the fire: so let demons flee at the presence of those who love God and sign themselves with the sign of the Cross, and say joyfully: Rejoice, most precious and life-giving Cross of the Lord, which drivest demons away through the power of our Lord Jesus Christ, who was crucified on thee, who descended into hell, trampled down the power of the devil, and gave to us his precious Cross for the routing of all enemies. Help me forever, most precious and life-giving Cross of the Lord, together with the holy Lady Virgin Theotokos and all the saints. Amen.",
+     "text_mk": "Нека воскресне Бог и нека се расеат Неговите непријатели. Нека бегаат од лицето Негово оние што Го мразат. Како што исчезнува чадот, така нека исчезнат и тие; како што се топи восокот од огнот, така нека бегаат демоните од лицето на оние што Го љубат Бога и што се знаменуваат со крсниот знак и радосно велат: Радувај се, пречесен и животворен Крсте Господов, што ги прогонуваш демоните со силата на нашиот Господ Исус Христос, распнат на тебе, Кој слезе во пеколот, ја погази силата на ѓаволот и ни го дарува Својот чесен Крст за прогонување на сите непријатели. Пречесен и животворен Крсте Господов, помагај ми довека, заедно со светата Владичица Дева Богородица и со сите светии. Амин.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e26",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "",
+     "rubric_mk": "",
+     "text_en": "O God, absolve, remit, and pardon our transgressions, voluntary and involuntary, committed in word or deed, thought or intention, whether in knowledge or in ignorance, whether by day or by night: forgive us everything, for thou art good and lovest mankind.",
+     "text_mk": "Боже, ослободи, разреши и прости ни ги нашите согрешенија, волни и неволни, сторени со збор или дело, со мисла или намера, свесно или несвесно, дење или ноќе: прости ни сè, зашто си благ и човекољубив.",
+     "after_en": "",
+     "after_mk": "",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    },
+    {
+     "id": "e27",
+     "title_en": "",
+     "title_mk": "",
+     "sub_en": "",
+     "sub_mk": "",
+     "rubric_en": "And, before falling asleep:",
+     "rubric_mk": "И, пред да заспиеш:",
+     "text_en": "Into thy hands, O Lord Jesus Christ my God, do I commend my spirit. Do thou bless me, have mercy on me, and grant me life everlasting. Amen.",
+     "text_mk": "Во Твоите раце, Господи Исусе Христе, Боже мој, го предавам својот дух. Ти благослови ме, помилуј ме и дарувај ми живот вечен. Амин.",
+     "after_en": "Then make the sign of the Cross and fall asleep with prayer, contemplating the Day of Judgment and the summons before God.",
+     "after_mk": "Потоа прекрсти се и заспи со молитва, размислувајќи за Судниот ден и за повикот пред Бога.",
+     "mk_source": {
+      "kind": "translation",
+      "urls": []
+     }
+    }
+   ]
+  }
+ ]
+}

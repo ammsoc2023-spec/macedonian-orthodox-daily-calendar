@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Macedonian Orthodox Daily Calendar™</title>
+<meta name="description" content="Macedonian Orthodox Daily Calendar – Macedonian Orthodox Church calendar 2026: saints, feasts, fasting and daily readings (EN / МК), English Scripture from The Orthodox Study Bible.">
+<meta name="theme-color" content="#7a1018">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="MOD Calendar">
+<meta name="application-name" content="MOD Calendar">
+<meta name="format-detection" content="telephone=no">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon-180.png">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header id="top">
+  <div class="apptitle"><span class="devline">Developed by ZB Copyright ©</span><strong>Macedonian Orthodox Daily Calendar™</strong></div>
+  <div class="bar">
+    <button id="btnToday" class="pill" type="button">Today</button>
+    <button id="btnPrayers" class="pill" type="button">Prayers</button>
+    <div class="seg" id="langSeg" role="group" aria-label="Language">
+      <button type="button" data-lang="en">EN</button><button type="button" data-lang="mk">МК</button><button type="button" data-lang="both">EN+МК</button>
+    </div>
+    <button id="btnSearch" class="icon" type="button" aria-label="Search saints">&#x1F50D;&#xFE0E;</button>
+    <button id="btnMenu" class="icon" type="button" aria-label="Settings">&#9881;&#xFE0E;</button>
+    <span class="biblePair">
+      <button id="btnBible" class="pill" type="button">Bible</button>
+      <button id="btnBiblija" class="pill" type="button">Biblija</button>
+    </span>
+  </div>
+  <div class="row2">
+    <nav class="dvnav">
+      <button id="btnMonth" class="pill" type="button" aria-label="Back to month view">&#8249; <span id="btnMonthLbl">Month</span></button>
+    </nav>
+    <nav class="mvnav" hidden>
+      <button id="mvPrev" class="arrow" type="button" aria-label="Previous month">&#8249;</button>
+      <div class="mvTitle"><div id="mvTitle"></div><div id="mvSub"></div></div>
+      <button id="mvNext" class="arrow" type="button" aria-label="Next month">&#8250;</button>
+    </nav>
+    <nav class="datenav">
+      <button id="btnPrev" class="arrow" type="button" aria-label="Previous day">&#8249;</button>
+      <button id="btnCal" class="datebtn" type="button" aria-label="Back to month view"><span id="navDate"></span><span id="navOld"></span></button>
+      <button id="btnNext" class="arrow" type="button" aria-label="Next day">&#8250;</button>
+    </nav>
+    <nav class="pvnav" hidden>
+      <button id="btnBack" class="pill" type="button">&#8249; Calendar</button>
+      <span id="pvTitle">Prayers</span>
+    </nav>
+    <nav class="bvnav" hidden>
+      <button id="btnBibleBack" class="pill" type="button">&#8249; Calendar</button>
+      <span id="bvTitle">Bible</span>
+      <a id="bibleExt" href="https://www.orthodoxbibleonline.com/" target="_blank" rel="noopener noreferrer">Open in browser</a>
+    </nav>
+  </div>
+</header>
+<main id="day" aria-live="polite"><p class="loading">Loading…</p></main>
+<main id="month" hidden></main>
+<main id="prayers" hidden></main>
+<main id="bible" hidden>
+  <div id="bibleOffline" hidden></div>
+  <div id="bibleFallback" hidden></div>
+  <iframe id="bibleFrame" title="Orthodox Bible Online" hidden></iframe>
+</main>
+<footer id="foot"></footer>
+
+<div id="searchPanel" class="panel" hidden>
+  <div class="sheet tall">
+    <div class="sheethead">
+      <input id="q" type="search" autocomplete="off" placeholder="Search saints / пребарај светители">
+      <button type="button" class="pill" data-close>Close</button>
+    </div>
+    <div id="results"></div>
+  </div>
+</div>
+
+<div id="menuPanel" class="panel" hidden>
+  <div class="sheet">
+    <h2 id="mTitle">Settings</h2>
+    <div class="row"><span id="mFont">Text size</span>
+      <span class="seg"><button type="button" id="fsDown" aria-label="Smaller text">A−</button><button type="button" id="fsReset">A</button><button type="button" id="fsUp" aria-label="Larger text">A+</button></span></div>
+    <div class="row"><span id="mTheme">Appearance</span>
+      <span class="seg" id="themeSeg"><button type="button" data-theme="auto">Auto</button><button type="button" data-theme="light">☀︎</button><button type="button" data-theme="dark">☾</button></span></div>
+    <div class="row"><span id="mExpand">Sections</span>
+      <span class="seg"><button type="button" id="openAll">Open all</button><button type="button" id="closeAll">Close all</button></span></div>
+    <details class="about"><summary id="mAbout">About this calendar · Упатство</summary><div id="aboutBody"></div><p class="small credit">Macedonian Orthodox Daily Calendar™ · Developed by ZB</p>
+    <p class="small credit">Copyright © 2026 ZB</p></details>
+    <p class="small" id="swStatus"></p>
+    <button type="button" class="pill" data-close>Close</button>
+  </div>
+</div>
+<div id="ttsBar" hidden role="region" aria-label="Read aloud">
+  <div class="tr">
+    <button type="button" class="tb main" id="ttsPlay" aria-label="Play">▶</button>
+    <button type="button" class="tb" id="ttsStop" aria-label="Stop">■</button>
+    <span id="ttsNow"></span>
+    <button type="button" class="tb" id="ttsClose" aria-label="Close read-aloud">✕</button>
+  </div>
+  <div class="tr">
+    <select id="ttsScope" aria-label="What to read"></select>
+    <select id="ttsLang" aria-label="Reading language"></select>
+    <select id="ttsRate" aria-label="Speed"><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1">1×</option><option value="1.1">1.1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select>
+  </div>
+  <div class="tr" id="rowVEn"><span class="small">EN</span><span class="grow"><select id="ttsVoiceEn" aria-label="English voice"></select></span><button type="button" class="tb" id="ttsPrevEn" aria-label="Preview English voice" title="Preview">🔈&#xFE0E;</button></div>
+  <div class="tr" id="rowVMk"><span class="small">МК</span><span class="grow"><select id="ttsVoiceMk" aria-label="Macedonian voice"></select></span><button type="button" class="tb" id="ttsPrevMk" aria-label="Preview Macedonian voice" title="Preview">🔈&#xFE0E;</button></div>
+  <div id="ttsNote"></div>
+  <div id="ttsTip" hidden></div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
