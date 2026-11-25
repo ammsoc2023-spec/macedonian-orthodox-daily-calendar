@@ -118,7 +118,7 @@ mark{background:var(--hl);color:inherit}
 .apptitle strong{font-size:1.05rem;letter-spacing:.02em;white-space:nowrap}
 footer .copy{text-align:center;margin:0 0 .7em}
 .apptitle span{font-size:.72rem;opacity:.8;font-style:italic}
-.apptitle .devline{font-size:.7rem;opacity:.9;font-style:normal;letter-spacing:.02em;margin-bottom:1px}
+.apptitle .devline{font-size:.7rem;opacity:.9;font-style:normal;letter-spacing:.02em;margin-top:1px}
 .credit{text-align:center;opacity:.8;font-style:italic;margin-top:10px}
 
 /* prayers view */
