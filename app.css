@@ -226,3 +226,9 @@ body.bv #bible{display:flex;flex-direction:column;flex:1;width:100%;max-width:no
 #bibleOffline p,#bibleFallback p{margin:.6em 0;line-height:1.45}
 #bibleFallback a{color:var(--accent);font-weight:700}
 #bibleOffline[hidden],#bibleFallback[hidden],#bibleFrame[hidden]{display:none}
+
+/* tap a saint name to jump to its life (Zoran t127u) */
+a.golife{color:inherit;text-decoration:underline;text-decoration-style:dotted;text-decoration-color:var(--muted);text-underline-offset:3px;cursor:pointer;-webkit-tap-highlight-color:transparent}
+a.golife:hover,a.golife:focus-visible{text-decoration-style:solid;outline:none}
+.saint[id]{scroll-margin-top:calc(var(--hdrh,120px) + 12px);transition:background-color .6s;border-radius:6px}
+.saint.flash{background-color:rgba(200,160,60,.18)}

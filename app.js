@@ -110,7 +110,11 @@ function section(L,d,month){
   if(d.gf) h+=`<p class="star"${k('star')}>${esc(E?d.star_en:d.star_mk)}</p>`;
   if(E?d.week_en:d.week_mk) h+=`<p class="week"${k('week')}>${esc(E?d.week_en:d.week_mk)}</p>`;
   h+=`<h2 class="sec">${u.saints}</h2><ul class="items">`;
-  d.items.forEach((it,i)=>{h+=`<li class="${colour(it)}"${k('it'+i)}>${esc((it.plus?'+ ':'')+(E?it.en:it.mk))}${E?` <span class="mk">(${esc(it.mk)})</span>`:''}</li>`});
+  const nz=x=>String(x||'').replace(/\s+/g,' ').trim(), lifeIx=d.saints.map(s=>nz(s.name_mk)), itLife={};
+  d.saints.forEach((s,j)=>(s.its||[]).forEach(i=>{if(!(i in itLife)) itLife[i]=j}));
+  d.items.forEach((it,i)=>{const nmT=esc((it.plus?'+ ':'')+(E?it.en:it.mk)), si=(i in itLife)?itLife[i]:lifeIx.indexOf(nz(it.mk));
+    const nmH=si>=0?`<a class="golife" role="link" tabindex="0" data-life="life-${L}-${si}">${nmT}</a>`:nmT;
+    h+=`<li class="${colour(it)}"${k('it'+i)}>${nmH}${E?` <span class="mk">(${esc(it.mk)})</span>`:''}</li>`});
   h+='</ul>';
   let rb='';
   (E?d.rnotes_en:d.rnotes_mk).forEach(n=>rb+=`<p class="note">${esc(n)}</p>`);
@@ -127,10 +131,10 @@ function section(L,d,month){
     d.saints.forEach((s,i)=>{
       const nm=E?s.name_en:s.name_mk, c=colour(s);
       if(s.kind==='P'){
-        sb+=`<div class="saint"><div class="nm ${c}"${k('s'+i+'n')}>${esc(nm)}</div>`;
+        sb+=`<div class="saint" id="life-${L}-${i}"><div class="nm ${c}"${k('s'+i+'n')}>${esc(nm)}</div>`;
         s.parts.forEach((p,j)=>sb+=`<p class="text"${k('s'+i+'p'+j)}><span class="lab">${esc(E?p.lab_en:p.lab_mk)}. </span>${esc(E?p.en:p.mk)}</p>`);
         sb+='</div>';
-      } else sb+=`<div class="saint"><p class="text"${k('s'+i+'p0')}><span class="nm ${c}">${esc(nm)}. </span>${esc(E?s.parts[0].en:s.parts[0].mk)}</p></div>`;
+      } else sb+=`<div class="saint" id="life-${L}-${i}"><p class="text"${k('s'+i+'p0')}><span class="nm ${c}">${esc(nm)}. </span>${esc(E?s.parts[0].en:s.parts[0].mk)}</p></div>`;
     });
     h+=det('lives',u.lives,sb);
   }
@@ -155,6 +159,10 @@ async function show(iso,opts){
   const m=$('#day'); m.innerHTML=h; m.dataset.date=iso;
   m.querySelectorAll('details').forEach(x=>x.addEventListener('toggle',()=>{ if(x.dataset.prog) return; open[x.dataset.sec]=x.open;LS.set('open',open)}));
   m.querySelectorAll('.speak').forEach(b=>b.addEventListener('click',()=>TTS.fromDay()));
+  const goLife=a=>{const t=document.getElementById(a.dataset.life); if(!t) return; const hd=document.querySelector('header#top'); if(hd) document.documentElement.style.setProperty('--hdrh',hd.offsetHeight+'px'); const dt=t.closest('details'); if(dt&&!dt.open) dt.open=true;
+    requestAnimationFrame(()=>t.scrollIntoView({behavior:'smooth',block:'start'})); t.classList.add('flash'); setTimeout(()=>t.classList.remove('flash'),1600)};
+  m.querySelectorAll('a.golife').forEach(a=>{a.addEventListener('click',e=>{e.preventDefault();goLife(a)});
+    a.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();goLife(a)}})});
   TTS.refreshDay();
   if(!opts||!opts.keepScroll) window.scrollTo(0,0);
   const mo=+iso.slice(5,7); [mo-1,mo+1].filter(x=>x>=1&&x<=12).forEach(x=>loadMonth(x).catch(()=>{}));
@@ -880,7 +888,7 @@ function init(){
     if(mm){ const t=view==='day'?+cur.slice(5,7):mm; if(bibleOpen||prayersOpen||view!=='month'||mvM!==t) showMonth(t,{noHash:t===mm}); return }
     if(valid(h)){ if(view!=='day'||prayersOpen||bibleOpen||h!==cur) show(h); return }
     if(!h) showMonth(+cur.slice(5,7),{noHash:true}) });
-  $('#foot').innerHTML='<p class="copy">Copyright © 2026 ZB</p><p>Sources: mpc.org.mk (calendar) · m-p-c.org (Macedonian Bible) · English Scripture: The Orthodox Study Bible (NKJV New Testament, Septuagint Old Testament), used by permission · official MPC calendar app “Православен календар” (Monastery Eleusa, Veljusa) for weekday readings · day icons from Wikimedia Commons (public domain / free licences, credited under each icon). Works offline. No tracking.</p>';
+  $('#foot').innerHTML='<p class="copy">Copyright © 2026 ZB</p><p>Sources: mpc.org.mk (calendar; saints’ lives from the Prolog on mpc.org.mk, with a direct English translation made for this app) · m-p-c.org (Macedonian Bible) · English Scripture: The Orthodox Study Bible (NKJV New Testament, Septuagint Old Testament), used by permission · official MPC calendar app “Православен календар” (Monastery Eleusa, Veljusa) for weekday readings · day icons from Wikimedia Commons (public domain / free licences, credited under each icon). Works offline. No tracking.</p>';
   // On launch the app opens on the current month; deep links (#YYYY-MM-DD, #YYYY-MM, #prayers, #bible, #biblija) still work.
   const h=location.hash.slice(1); cur=todayInRange(); updateNav();
   if(valid(h)) show(h); else { showMonth(vmonth(h)||+cur.slice(5,7)); if(h==='prayers') openPrayers(false); else if(h==='bible'||h==='biblija') openBible(h,false) }
